@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-4076-0103"   # REPO_EXP_261111
 license: MIT
 repository-code: "https://github.com/priolap/medita-repo"
-# doi: 10.5281/zenodo.XXXXXXX   # assigned by Zenodo at the first release
+doi: 10.5281/zenodo.24143031   # REPO_DOI_261111: concept DOI (all versions)
 version: "0.1.0"
 date-released: "2026-11-11"   # REPO_REL_261111: date of release v0.1.0
 keywords:

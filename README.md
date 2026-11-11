@@ -1,5 +1,7 @@
 # MEDITA — a Multimodal hEalth Data lakehouse for ITAly
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24143031.svg)](https://doi.org/10.5281/zenodo.24143031)<!-- REPO_DOI_261111 -->
+
 Code, configuration and experiment scripts of MEDITA, a platform that extracts,
 harmonises and serves Italian public-health open data (Ministero della Salute, AIFA,
 ISTAT), together with the scripts that regenerate every experimental table and figure
@@ -100,7 +102,7 @@ python paper/make_all.py --from-experiments          # re-export results/experim
 
 ## Citation
 
-See `CITATION.cff`. A DOI is assigned by Zenodo to each GitHub release.
+See `CITATION.cff`. A DOI is assigned by Zenodo to each GitHub release. Software DOI (all versions): [10.5281/zenodo.24143031](https://doi.org/10.5281/zenodo.24143031); version 0.1.0: [10.5281/zenodo.24143032](https://doi.org/10.5281/zenodo.24143032).
 
 ## Licence
 
