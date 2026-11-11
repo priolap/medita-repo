@@ -1,0 +1,8 @@
+foglio / voce,contenuto
+per_answer,"una riga per domanda x modello: tutte le metriche, IS_HALL, astensione"
+classic,"medie su tutte le risposte (EM, ROUGE, BLEU-4 con brevity penalty, METEOR, BERTScore)"
+nmiss,"NMISS solo sui validi: IS_HALL=0 e 0,01 < metrica < 0,99; outperformance % con Wilson 95%"
+hallucinations,conteggi e % di IS_HALL=1
+abstention_C12,astensione del modello vs gold di astensione; due definizioni di astensione
+confusion_C12,matrici 2x2: contesto insufficiente/sufficiente x si astiene/risponde; figura c12_confusion
+SET,"ALL = 300 domande, paper = Q001-Q100, new = Q101-Q300"

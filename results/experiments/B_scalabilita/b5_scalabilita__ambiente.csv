@@ -1,0 +1,19 @@
+voce,valore
+eseguito,2026-10-31 19:35
+python,3.14.7
+sistema,Windows-11-10.0.26200-SP0
+cpu_logiche,20
+pandas,3.0.5
+dask,2026.8.0
+ram_totale_gb,15.7
+ram_libera_inizio_gb,7.3
+alimentazione,corrente
+cpu_fisiche,14
+file,"ISTAT:DCIS_DECESSI.csv,MINIS:dispositivi_medici.csv"
+volumi_mb,"50,150,300,600,1200,0"
+modi,"python,c,dask_sync,dask"
+ripetizioni,3
+timeout_s,3600
+pulizia,True
+cartella_lavoro,<WORK>
+durata_totale_min,145

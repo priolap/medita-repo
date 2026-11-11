@@ -1,0 +1,7 @@
+Model (RAG),EM,ROUGE-1 F1,ROUGE-L F1,BLEU-4,METEOR,BERTScore F1,Halluc. rate
+Gemma-2,0.517,0.732,0.707,0.629,0.713,0.887,0.080
+,"{\scriptsize [0.460, 0.573]}","{\scriptsize [0.693, 0.769]}","{\scriptsize [0.667, 0.747]}","{\scriptsize [0.581, 0.676]}","{\scriptsize [0.672, 0.753]}","{\scriptsize [0.872, 0.902]}","{\scriptsize [0.050, 0.113]}"
+Llama-3,0.010,0.383,0.347,0.185,0.489,0.762,0.300
+,"{\scriptsize [0.000, 0.023]}","{\scriptsize [0.360, 0.407]}","{\scriptsize [0.323, 0.370]}","{\scriptsize [0.166, 0.205]}","{\scriptsize [0.457, 0.521]}","{\scriptsize [0.752, 0.772]}","{\scriptsize [0.247, 0.353]}"
+Difference,+0.507,+0.349,+0.361,+0.445,+0.224,+0.126,$-$0.220
+,"{\scriptsize [0.450, 0.563]}","{\scriptsize [0.307, 0.389]}","{\scriptsize [0.320, 0.402]}","{\scriptsize [0.399, 0.490]}","{\scriptsize [0.184, 0.264]}","{\scriptsize [0.110, 0.142]}","{\scriptsize [$-$0.273, $-$0.167]}"

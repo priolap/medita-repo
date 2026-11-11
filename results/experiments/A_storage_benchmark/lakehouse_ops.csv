@@ -1,0 +1,6 @@
+table,operation,seconds,ok,detail
+DISP_POSLETTO_TIPO,append_transazionale,0.2095,True,"versione 30->31, righe 164868->165868"
+DISP_POSLETTO_TIPO,time_travel,0.0083,True,lettura versione 30: 164868 righe
+DISP_POSLETTO_TIPO,schema_evolution,0.0332,True,"colonna aggiunta, versione 32"
+DISP_POSLETTO_TIPO,schema_enforcement,0.062,True,testo in TIPO_AZIENDA (int64) rifiutato: Exception; versione 32 invariata
+DISP_POSLETTO_TIPO,rollback_restore,0.0273,True,ripristinata versione 30 (nuova versione 33)

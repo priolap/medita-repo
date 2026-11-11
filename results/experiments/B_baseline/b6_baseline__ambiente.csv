@@ -1,0 +1,17 @@
+voce,valore
+eseguito,2026-10-31 13:28
+durata_s,2394
+python,3.14.7
+gold,<MEDITA>/experiments/B_fuzzy_eval/out/fuzzy_annotato_2026.xlsx
+metodi,"fuzzy, embedding, coma, cupid, cupid_ita, sflooding, jaro_winkler, token_set"
+modello_embedding,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+bootstrap,2000
+ripetizioni_cv,20
+seed,0
+vocabolario_canonico,240
+pandas,3.0.5
+sklearn,1.9.1
+rapidfuzz,3.14.6
+valentine,non disponibile
+sentence_transformers,6.2.0
+torch,2.15.0+cpu

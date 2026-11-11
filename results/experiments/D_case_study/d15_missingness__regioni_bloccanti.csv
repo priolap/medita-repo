@@ -1,0 +1,21 @@
+COD,NOME,TABELLE_ANNO_INCOMPLETA,TABELLE_ANNO,UNICA_INCOMPLETA
+ITC1,Piemonte,10,470,0
+ITC2,Valle d'Aosta,82,470,16
+ITC3,Liguria,13,470,0
+ITC4,Lombardia,10,470,0
+ITF1,Abruzzo,25,470,10
+ITF2,Molise,64,470,4
+ITF3,Campania,15,470,0
+ITF4,Puglia,10,470,0
+ITF5,Basilicata,62,470,1
+ITF6,Calabria,24,470,5
+ITG1,Sicilia,10,470,0
+ITG2,Sardegna,35,470,6
+ITH0,Trentino-Alto Adige,48,470,0
+ITH3,Veneto,7,470,0
+ITH4,Friuli-Venezia Giulia,15,470,0
+ITH5,Emilia-Romagna,8,470,0
+ITI1,Toscana,16,470,0
+ITI2,Umbria,15,470,0
+ITI3,Marche,12,470,1
+ITI4,Lazio,11,470,1

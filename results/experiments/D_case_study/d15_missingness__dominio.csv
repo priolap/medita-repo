@@ -1,0 +1,13 @@
+FONTE,TAG,tabelle,celle,anni_non_pubblicati_%,regione_assente_%,celle_con_valori_mancanti_%,valori_mancanti_%,celle_complete_%
+AIFA,Farmaceutica,1,147,0.0,0.0,0.0,0.0,100.0
+ISTAT,Dati Ospedalieri,1,294,78.571,0.0,0.0,0.0,100.0
+ISTAT,Educazione e Disabilità,2,42,0.0,0.0,4.762,4.762,95.238
+ISTAT,Indicatori Sociodemografici,3,1911,3.297,0.0,11.039,0.107,88.961
+ISTAT,Previdenza Sociale,3,966,4.348,0.0,0.0,0.0,100.0
+ISTAT,Salute e Mortalità,7,2856,0.0,0.07,0.0,0.0,99.93
+ISTAT,Violenza,1,21,0.0,0.0,0.0,0.0,100.0
+MINIS,Dati Ospedalieri,4,903,0.0,0.0,0.111,0.001,99.889
+MINIS,Dispositivi Medici,1,210,0.0,1.429,0.0,0.0,98.571
+MINIS,Personale del SSN,8,1701,0.0,10.406,0.0,0.0,89.594
+MINIS,Salute Mentale,14,1092,1.923,4.108,12.232,1.825,83.66
+MINIS,Sistema Sanitario Nazionale,4,84,0.0,0.0,1.19,0.007,98.81

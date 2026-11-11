@@ -1,0 +1,6 @@
+Backend,Ingestion time (min),Storage footprint (GB),Footprint / text
+SQLite (baseline),2.37,7.06,1.04
+SQLite + indexes,2.51,7.33,1.08
+DuckDB,0.99,0.660,0.097
+Parquet + DuckDB,0.56,0.234,0.034
+Delta Lake + DuckDB,0.75,0.310,0.046

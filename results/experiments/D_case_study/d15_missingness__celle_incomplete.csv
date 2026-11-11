@@ -1,0 +1,923 @@
+FONTE,TABELLA,TAG,COD,NOME,ANNO,TIPO,MANCANTI,VALORI
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITC1,PIEMONTE,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITC2,VALLE D'AOSTA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITC3,LIGURIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITC4,LOMBARDIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITF1,ABRUZZO,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITF2,MOLISE,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITF3,CAMPANIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITF4,PUGLIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITF5,BASILICATA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITF6,CALABRIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITG1,SICILIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITG2,SARDEGNA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITH1,PROV. AUTON. BOLZANO,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITH2,PROV. AUTON. TRENTO,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITH3,VENETO,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITH4,FRIULI-VENEZIA GIULIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITH5,EMILIA-ROMAGNA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITI1,TOSCANA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITI2,UMBRIA,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITI3,MARCHE,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ITI4,LAZIO,2016,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITC1,PIEMONTE,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITC2,VALLE D'AOSTA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITC3,LIGURIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITC4,LOMBARDIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITF1,ABRUZZO,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITF2,MOLISE,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITF3,CAMPANIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITF4,PUGLIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITF5,BASILICATA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITF6,CALABRIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITG1,SICILIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITG2,SARDEGNA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITH1,PROV. AUTON. BOLZANO,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITH2,PROV. AUTON. TRENTO,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITH3,VENETO,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITH4,FRIULI-VENEZIA GIULIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITH5,EMILIA-ROMAGNA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITI1,TOSCANA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITI2,UMBRIA,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITI3,MARCHE,2014,anno non pubblicato,0,0
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ITI4,LAZIO,2014,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC1,PIEMONTE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,1998,valori mancanti,1,164
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2001,valori mancanti,1,178
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2002,valori mancanti,2,178
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2003,valori mancanti,1,178
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2005,valori mancanti,1,178
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2009,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2010,valori mancanti,2,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2011,valori mancanti,2,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2012,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2013,valori mancanti,2,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2014,valori mancanti,2,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2015,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2016,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2017,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2018,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2019,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2020,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2023,valori mancanti,1,219
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2024,valori mancanti,1,219
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2025,valori mancanti,1,203
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC3,LIGURIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITC4,LOMBARDIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF1,ABRUZZO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,1994,valori mancanti,1,86
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,2012,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,2014,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,2016,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,2020,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF2,MOLISE,2023,valori mancanti,1,219
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF3,CAMPANIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF4,PUGLIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF5,BASILICATA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF5,BASILICATA,2011,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF5,BASILICATA,2013,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF5,BASILICATA,2014,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITF6,CALABRIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITG1,SICILIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITG2,SARDEGNA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,1998,valori mancanti,1,164
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2016,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2010,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2011,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2014,valori mancanti,1,225
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH3,VENETO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH4,FRIULI-VENEZIA GIULIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITH5,EMILIA-ROMAGNA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITI1,TOSCANA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITI2,UMBRIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITI3,MARCHE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ITI4,LAZIO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC1,PIEMONTE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2001,valori mancanti,5,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2002,valori mancanti,8,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2003,valori mancanti,9,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2005,valori mancanti,10,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2006,valori mancanti,9,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2007,valori mancanti,8,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2008,valori mancanti,8,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2009,valori mancanti,9,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2010,valori mancanti,10,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2011,valori mancanti,7,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2012,valori mancanti,10,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2013,valori mancanti,10,768
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2014,valori mancanti,8,499
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2015,valori mancanti,9,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2016,valori mancanti,9,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2017,valori mancanti,11,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2018,valori mancanti,9,576
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2019,valori mancanti,11,496
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2020,valori mancanti,9,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2021,valori mancanti,8,474
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2022,valori mancanti,8,554
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2023,valori mancanti,11,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2024,valori mancanti,9,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2025,valori mancanti,13,384
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC3,LIGURIA,2002,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC3,LIGURIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC3,LIGURIA,2007,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC3,LIGURIA,2017,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC4,LOMBARDIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITC4,LOMBARDIA,2015,valori mancanti,1,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF1,ABRUZZO,2002,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF1,ABRUZZO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF1,ABRUZZO,2016,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF1,ABRUZZO,2018,valori mancanti,1,576
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF1,ABRUZZO,2023,valori mancanti,1,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2001,valori mancanti,3,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2002,valori mancanti,5,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2003,valori mancanti,3,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2005,valori mancanti,6,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2006,valori mancanti,3,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2007,valori mancanti,5,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2008,valori mancanti,6,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2009,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2010,valori mancanti,5,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2011,valori mancanti,5,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2012,valori mancanti,7,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2013,valori mancanti,5,768
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2014,valori mancanti,6,499
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2015,valori mancanti,5,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2016,valori mancanti,2,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2017,valori mancanti,3,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2018,valori mancanti,3,576
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2019,valori mancanti,2,496
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2020,valori mancanti,5,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2021,valori mancanti,6,474
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2022,valori mancanti,4,554
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2023,valori mancanti,2,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2024,valori mancanti,7,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF2,MOLISE,2025,valori mancanti,6,384
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF3,CAMPANIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF4,PUGLIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2003,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2005,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2006,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2007,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2008,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2009,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2010,valori mancanti,2,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2011,valori mancanti,3,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2012,valori mancanti,4,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2013,valori mancanti,2,768
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2014,valori mancanti,3,499
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2015,valori mancanti,2,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2016,valori mancanti,3,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2017,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2018,valori mancanti,2,576
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2019,valori mancanti,2,496
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2021,valori mancanti,2,474
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2022,valori mancanti,2,554
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2023,valori mancanti,1,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2024,valori mancanti,2,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF5,BASILICATA,2025,valori mancanti,3,384
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF6,CALABRIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF6,CALABRIA,2013,valori mancanti,1,768
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITF6,CALABRIA,2020,valori mancanti,1,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITG1,SICILIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITG2,SARDEGNA,2001,valori mancanti,3,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITG2,SARDEGNA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITG2,SARDEGNA,2020,valori mancanti,1,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2002,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2005,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2006,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2007,valori mancanti,3,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2008,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2011,valori mancanti,2,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2012,valori mancanti,4,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2013,valori mancanti,4,768
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2014,valori mancanti,1,499
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2015,valori mancanti,3,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2017,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2019,valori mancanti,1,496
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2020,valori mancanti,1,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2022,valori mancanti,1,554
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2023,valori mancanti,4,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2024,valori mancanti,1,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2025,valori mancanti,1,384
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2005,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2006,valori mancanti,4,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2007,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2008,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2009,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2011,valori mancanti,3,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2012,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2013,valori mancanti,1,768
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2016,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2017,valori mancanti,2,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2018,valori mancanti,3,576
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2019,valori mancanti,1,496
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2020,valori mancanti,2,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2022,valori mancanti,1,554
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2023,valori mancanti,2,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2024,valori mancanti,1,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2025,valori mancanti,2,384
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH3,VENETO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH4,FRIULI-VENEZIA GIULIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH4,FRIULI-VENEZIA GIULIA,2009,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH4,FRIULI-VENEZIA GIULIA,2023,valori mancanti,1,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH5,EMILIA-ROMAGNA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITH5,EMILIA-ROMAGNA,2014,valori mancanti,1,499
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI1,TOSCANA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI1,TOSCANA,2017,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI1,TOSCANA,2020,valori mancanti,1,498
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2001,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2003,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2005,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2007,valori mancanti,2,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2012,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2014,valori mancanti,1,499
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2016,valori mancanti,1,590
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2018,valori mancanti,1,576
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2019,valori mancanti,1,496
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2022,valori mancanti,1,554
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI2,UMBRIA,2024,valori mancanti,1,476
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI3,MARCHE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI3,MARCHE,2005,valori mancanti,1,538
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ITI4,LAZIO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC1,PIEMONTE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC1,PIEMONTE,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,1994,valori mancanti,1,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,1997,valori mancanti,2,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2013,valori mancanti,1,262
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2017,valori mancanti,3,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2018,valori mancanti,1,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC2,VALLE D'AOSTA,2025,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC3,LIGURIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC3,LIGURIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC4,LOMBARDIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITC4,LOMBARDIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF1,ABRUZZO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF1,ABRUZZO,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF2,MOLISE,1997,valori mancanti,1,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF2,MOLISE,1998,valori mancanti,1,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF2,MOLISE,1999,valori mancanti,1,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF2,MOLISE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF2,MOLISE,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF3,CAMPANIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF3,CAMPANIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF4,PUGLIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF4,PUGLIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF5,BASILICATA,2001,valori mancanti,1,146
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF5,BASILICATA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF5,BASILICATA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF6,CALABRIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITF6,CALABRIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITG1,SICILIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITG1,SICILIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITG2,SARDEGNA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITG2,SARDEGNA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2008,valori mancanti,1,247
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2015,valori mancanti,1,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH1,PROV. AUTON. BOLZANO,2024,valori mancanti,1,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,1998,valori mancanti,2,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2007,valori mancanti,1,247
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2011,valori mancanti,1,248
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2015,valori mancanti,1,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH2,PROV. AUTON. TRENTO,2017,valori mancanti,3,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH3,VENETO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH3,VENETO,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH4,FRIULI-VENEZIA GIULIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH4,FRIULI-VENEZIA GIULIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH5,EMILIA-ROMAGNA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITH5,EMILIA-ROMAGNA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI1,TOSCANA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI1,TOSCANA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI2,UMBRIA,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI2,UMBRIA,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI3,MARCHE,1993,valori mancanti,1,96
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI3,MARCHE,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI3,MARCHE,2017,valori mancanti,2,222
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI4,LAZIO,2004,anno non pubblicato,0,0
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ITI4,LAZIO,2017,valori mancanti,2,222
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ITH1,PROV. AUTON. BOLZANO,2023,regione assente,0,0
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ITH2,PROV. AUTON. TRENTO,2023,regione assente,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC1,PIEMONTE,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC2,VALLE D'AOSTA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC3,LIGURIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITC4,LOMBARDIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF1,ABRUZZO,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF2,MOLISE,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF3,CAMPANIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF4,PUGLIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF5,BASILICATA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITF6,CALABRIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG1,SICILIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITG2,SARDEGNA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH1,PROV. AUTON. BOLZANO,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH2,PROV. AUTON. TRENTO,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH3,VENETO,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH4,FRIULI-VENEZIA GIULIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITH5,EMILIA-ROMAGNA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI1,TOSCANA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI2,UMBRIA,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI3,MARCHE,2012,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2001,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2002,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2003,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2004,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2006,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2007,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2008,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2009,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2010,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2011,anno non pubblicato,0,0
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ITI4,LAZIO,2012,anno non pubblicato,0,0
+ISTAT,DCIS_SCUOLEDIS,Educazione e Disabilità,ITH1,PROV. AUTON. BOLZANO,2009,valori mancanti,18,18
+ISTAT,DCIS_SCUOLESORDI,Educazione e Disabilità,ITH1,PROV. AUTON. BOLZANO,2009,valori mancanti,6,6
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITC2,VALLE D'AOSTA,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF2,MOLISE,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITF5,BASILICATA,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITC2,VALLE D'AOSTA,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF2,MOLISE,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITF5,BASILICATA,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2022,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2010,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2011,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2012,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2013,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2014,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2015,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2016,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2017,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2018,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2019,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2020,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2021,regione assente,0,0
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2022,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITF2,MOLISE,2023,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITG2,SARDEGNA,2020,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITG2,SARDEGNA,2021,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITG2,SARDEGNA,2022,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITG2,SARDEGNA,2023,regione assente,0,0
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,ITG2,SARDEGNA,2024,regione assente,0,0
+MINIS,ANAG_UTENTRAT_DDSM,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,CONT_UTENTRAT_DSM1,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,CONT_UTENTRAT_DSM2,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,CONT_UTENTRAT_DSM3,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,CONT_UTENTRAT_DSM3,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,CONT_UTENTRAT_DSM4,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,CONT_UTENTRAT_DSM4,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,ITG2,SARDEGNA,2012,regione assente,0,0
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,ITG2,SARDEGNA,2013,regione assente,0,0
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,ITG2,SARDEGNA,2014,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF2,MOLISE,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF2,MOLISE,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF2,MOLISE,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF2,MOLISE,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF2,MOLISE,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF3,CAMPANIA,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF3,CAMPANIA,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF3,CAMPANIA,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF3,CAMPANIA,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF3,CAMPANIA,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF5,BASILICATA,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF5,BASILICATA,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF5,BASILICATA,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF5,BASILICATA,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF5,BASILICATA,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF6,CALABRIA,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF6,CALABRIA,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF6,CALABRIA,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITF6,CALABRIA,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITG2,SARDEGNA,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITG2,SARDEGNA,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITG2,SARDEGNA,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITG2,SARDEGNA,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITG2,SARDEGNA,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH1,PROV. AUTON. BOLZANO,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH2,PROV. AUTON. TRENTO,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH4,FRIULI-VENEZIA GIULIA,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH4,FRIULI-VENEZIA GIULIA,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH4,FRIULI-VENEZIA GIULIA,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH4,FRIULI-VENEZIA GIULIA,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITH4,FRIULI-VENEZIA GIULIA,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI1,TOSCANA,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI1,TOSCANA,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI1,TOSCANA,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI1,TOSCANA,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI1,TOSCANA,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI3,MARCHE,2019,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI3,MARCHE,2020,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI3,MARCHE,2021,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI3,MARCHE,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI3,MARCHE,2023,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI4,LAZIO,2022,regione assente,0,0
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,ITI4,LAZIO,2023,regione assente,0,0
+MINIS,DEMO_UTENTRAT_DDSM,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,DEMO_UTENTRAT_DDSM,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,DIAG_UTENTRAT_DDSM,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,DIAS_UTENTRAT_DDSM,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,DIAS_UTENTRAT_DDSM,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,ITI4,LAZIO,2010,valori mancanti,15,910
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,ITF2,MOLISE,2019,regione assente,0,0
+MINIS,STRU_ATTIVITA_AASL,Sistema Sanitario Nazionale,ITG2,SARDEGNA,2022,valori mancanti,3,216
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITC1,PIEMONTE,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITC2,VALLE D'AOSTA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITC3,LIGURIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITC4,LOMBARDIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF1,ABRUZZO,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF2,MOLISE,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF3,CAMPANIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF4,PUGLIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF5,BASILICATA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF6,CALABRIA,2020,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF6,CALABRIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITF6,CALABRIA,2022,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITG1,SICILIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2020,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2022,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2023,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2024,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITH1,PROV. AUTON. BOLZANO,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITH2,PROV. AUTON. TRENTO,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITH3,VENETO,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2020,regione assente,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITH5,EMILIA-ROMAGNA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITI1,TOSCANA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITI2,UMBRIA,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITI3,MARCHE,2021,anno non pubblicato,0,0
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,ITI4,LAZIO,2021,anno non pubblicato,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITF1,ABRUZZO,2023,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITF1,ABRUZZO,2024,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITF6,CALABRIA,2020,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITF6,CALABRIA,2021,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITF6,CALABRIA,2022,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2020,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2021,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2022,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2023,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITG2,SARDEGNA,2024,regione assente,0,0
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2020,regione assente,0,0
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC1,PIEMONTE,2022,valori mancanti,31,333
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC1,PIEMONTE,2023,valori mancanti,22,334
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC1,PIEMONTE,2024,valori mancanti,28,366
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC2,VALLE D'AOSTA,2022,valori mancanti,1,13
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC2,VALLE D'AOSTA,2023,valori mancanti,2,14
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC2,VALLE D'AOSTA,2024,valori mancanti,1,13
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC3,LIGURIA,2022,valori mancanti,5,86
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC3,LIGURIA,2023,valori mancanti,5,90
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC3,LIGURIA,2024,valori mancanti,20,91
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC4,LOMBARDIA,2022,valori mancanti,28,402
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC4,LOMBARDIA,2023,valori mancanti,56,446
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITC4,LOMBARDIA,2024,valori mancanti,119,437
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF1,ABRUZZO,2022,valori mancanti,3,43
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF1,ABRUZZO,2023,valori mancanti,2,42
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF1,ABRUZZO,2024,valori mancanti,5,45
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF2,MOLISE,2022,valori mancanti,2,19
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF3,CAMPANIA,2022,valori mancanti,23,162
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF3,CAMPANIA,2023,valori mancanti,5,163
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF3,CAMPANIA,2024,valori mancanti,10,166
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF4,PUGLIA,2022,valori mancanti,7,226
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF4,PUGLIA,2023,valori mancanti,15,231
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF4,PUGLIA,2024,valori mancanti,16,235
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF5,BASILICATA,2023,valori mancanti,1,23
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF5,BASILICATA,2024,valori mancanti,2,23
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF6,CALABRIA,2022,valori mancanti,2,51
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF6,CALABRIA,2023,valori mancanti,6,53
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITF6,CALABRIA,2024,valori mancanti,4,55
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITG1,SICILIA,2022,valori mancanti,22,193
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITG1,SICILIA,2023,valori mancanti,19,194
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITG1,SICILIA,2024,valori mancanti,31,197
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITG2,SARDEGNA,2022,valori mancanti,69,134
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITG2,SARDEGNA,2023,valori mancanti,5,69
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITG2,SARDEGNA,2024,valori mancanti,8,75
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH1,PROV. AUTON. BOLZANO,2022,valori mancanti,1,22
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH1,PROV. AUTON. BOLZANO,2024,valori mancanti,6,29
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH2,PROV. AUTON. TRENTO,2022,valori mancanti,2,18
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH2,PROV. AUTON. TRENTO,2023,valori mancanti,3,19
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH2,PROV. AUTON. TRENTO,2024,valori mancanti,2,17
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH3,VENETO,2022,valori mancanti,12,193
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH3,VENETO,2023,valori mancanti,17,207
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH3,VENETO,2024,valori mancanti,23,220
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2022,valori mancanti,9,67
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2023,valori mancanti,7,70
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2024,valori mancanti,8,73
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH5,EMILIA-ROMAGNA,2022,valori mancanti,20,236
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH5,EMILIA-ROMAGNA,2023,valori mancanti,34,236
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITH5,EMILIA-ROMAGNA,2024,valori mancanti,12,272
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI1,TOSCANA,2022,valori mancanti,22,192
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI1,TOSCANA,2023,valori mancanti,5,194
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI1,TOSCANA,2024,valori mancanti,11,207
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI2,UMBRIA,2022,valori mancanti,7,56
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI2,UMBRIA,2023,valori mancanti,9,54
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI2,UMBRIA,2024,valori mancanti,8,53
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI3,MARCHE,2022,valori mancanti,5,80
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI3,MARCHE,2023,valori mancanti,75,153
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI3,MARCHE,2024,valori mancanti,5,85
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI4,LAZIO,2022,valori mancanti,11,232
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI4,LAZIO,2023,valori mancanti,26,247
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,ITI4,LAZIO,2024,valori mancanti,30,253
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC1,PIEMONTE,2020,valori mancanti,9,231
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC1,PIEMONTE,2021,valori mancanti,9,231
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC1,PIEMONTE,2022,valori mancanti,20,231
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC1,PIEMONTE,2023,valori mancanti,8,219
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC1,PIEMONTE,2024,valori mancanti,11,237
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC1,PIEMONTE,2025,valori mancanti,1,207
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC2,VALLE D'AOSTA,2022,valori mancanti,1,9
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC2,VALLE D'AOSTA,2024,valori mancanti,1,9
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC2,VALLE D'AOSTA,2025,valori mancanti,1,9
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC3,LIGURIA,2020,valori mancanti,7,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC3,LIGURIA,2021,valori mancanti,5,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC3,LIGURIA,2022,valori mancanti,7,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC3,LIGURIA,2023,valori mancanti,5,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC3,LIGURIA,2024,valori mancanti,5,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC3,LIGURIA,2025,valori mancanti,3,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC4,LOMBARDIA,2020,valori mancanti,1,246
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC4,LOMBARDIA,2021,valori mancanti,1,201
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC4,LOMBARDIA,2023,valori mancanti,18,267
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC4,LOMBARDIA,2024,valori mancanti,55,270
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITC4,LOMBARDIA,2025,valori mancanti,2,222
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF1,ABRUZZO,2025,valori mancanti,1,33
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF2,MOLISE,2020,valori mancanti,1,18
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF2,MOLISE,2022,valori mancanti,1,18
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF3,CAMPANIA,2020,valori mancanti,14,129
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF3,CAMPANIA,2021,valori mancanti,12,126
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF3,CAMPANIA,2022,valori mancanti,10,129
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF3,CAMPANIA,2023,valori mancanti,9,126
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF3,CAMPANIA,2024,valori mancanti,16,126
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF3,CAMPANIA,2025,valori mancanti,25,123
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF4,PUGLIA,2020,valori mancanti,4,168
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF4,PUGLIA,2021,valori mancanti,3,168
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF4,PUGLIA,2022,valori mancanti,2,168
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF4,PUGLIA,2023,valori mancanti,4,168
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF4,PUGLIA,2024,valori mancanti,3,174
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF4,PUGLIA,2025,valori mancanti,1,171
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF5,BASILICATA,2020,valori mancanti,1,18
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF5,BASILICATA,2021,valori mancanti,1,18
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF5,BASILICATA,2024,valori mancanti,1,18
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF6,CALABRIA,2024,valori mancanti,2,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITF6,CALABRIA,2025,valori mancanti,2,48
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG1,SICILIA,2020,valori mancanti,7,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG1,SICILIA,2021,valori mancanti,9,147
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG1,SICILIA,2022,valori mancanti,16,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG1,SICILIA,2023,valori mancanti,11,147
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG1,SICILIA,2024,valori mancanti,10,147
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG1,SICILIA,2025,valori mancanti,4,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG2,SARDEGNA,2020,valori mancanti,7,54
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG2,SARDEGNA,2021,valori mancanti,6,54
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG2,SARDEGNA,2022,valori mancanti,63,108
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG2,SARDEGNA,2023,valori mancanti,10,54
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG2,SARDEGNA,2024,valori mancanti,9,54
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITG2,SARDEGNA,2025,valori mancanti,3,54
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH1,PROV. AUTON. BOLZANO,2023,valori mancanti,1,12
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH2,PROV. AUTON. TRENTO,2023,valori mancanti,2,9
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH3,VENETO,2020,valori mancanti,1,114
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH3,VENETO,2021,valori mancanti,1,114
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH3,VENETO,2024,valori mancanti,1,114
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2022,valori mancanti,5,39
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH4,FRIULI-VENEZIA GIULIA,2025,valori mancanti,1,39
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH5,EMILIA-ROMAGNA,2023,valori mancanti,1,138
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH5,EMILIA-ROMAGNA,2024,valori mancanti,4,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITH5,EMILIA-ROMAGNA,2025,valori mancanti,1,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI1,TOSCANA,2020,valori mancanti,5,120
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI1,TOSCANA,2021,valori mancanti,2,117
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI1,TOSCANA,2022,valori mancanti,16,117
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI1,TOSCANA,2023,valori mancanti,1,114
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI1,TOSCANA,2025,valori mancanti,7,114
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI3,MARCHE,2023,valori mancanti,42,84
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI4,LAZIO,2020,valori mancanti,2,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI4,LAZIO,2021,valori mancanti,1,150
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI4,LAZIO,2023,valori mancanti,4,156
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,ITI4,LAZIO,2025,valori mancanti,1,156

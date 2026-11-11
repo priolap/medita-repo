@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MEDITA: a Multimodal hEalth Data lakehouse for ITAly"
+type: software
+authors:
+  - family-names: Priola
+    given-names: Maria Paola
+    affiliation: "University of Cagliari"
+    orcid: "https://orcid.org/0009-0002-4076-0103"   # REPO_EXP_261111
+license: MIT
+repository-code: "https://github.com/priolap/medita-repo"
+# doi: 10.5281/zenodo.XXXXXXX   # assigned by Zenodo at the first release
+version: "0.1.0"
+date-released: "2026-11-11"   # REPO_REL_261111: date of release v0.1.0
+keywords:
+  - data lakehouse
+  - public health
+  - open data
+  - ETL
+  - schema matching
+  - retrieval-augmented generation

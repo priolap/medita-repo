@@ -1,0 +1,14 @@
+Source,Domain (tables),Complete cells (%),Region absent (%),Comparable table-years
+AIFA,Pharmaceuticals (1),100,0,7/7 (100\%)
+ISTAT,Education and disability (2),95.2,0,2/2 (100\%)
+ISTAT,Health and mortality (7),99.9,0.07,136/136 (100\%)
+ISTAT,Hospital data (1),100,0,3/3 (100\%)
+ISTAT,Social security (3),100,0,44/44 (100\%)
+ISTAT,Sociodemographic indicators (3),89.0,0,33/88 (37.5\%)
+ISTAT,Violence (1),100,0,1/1 (100\%)
+MINIS,Hospital data (4),99.9,0,42/43 (97.7\%)
+MINIS,NSS personnel (8),89.6,10.4,49/81 (60.5\%)
+MINIS,Mental health (14),83.7,4.1,13/51 (25.5\%)
+MINIS,Medical devices (1),98.6,1.4,7/10 (70.0\%)
+MINIS,National health system (4),98.8,0,3/4 (75.0\%)
+\multicolumn{2}{l}{\textbf{All sources (49 tables)}},,\textbf{94.3},,\textbf{340/470 (72.3\%)}

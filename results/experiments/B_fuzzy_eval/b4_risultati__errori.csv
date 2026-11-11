@@ -1,0 +1,19 @@
+step,errore,occorrenze,var_code,item_a,item_b,ratio,decision,bloccata_da,NOTE
+canonical,FN,1,ELEN_PARAFARM_DETT,FARMACI_UMANI_SENZA_OBBLIGO_PRESCRIZIONE,FARMACI_UMANI_SENZAOBBLIGOPRESCR,89,not_renamed,,"Regola 1: nome abbreviato, stessi valori SI/NO."
+canonical,FN,1,FARM_ESTERUSO_ITAL,COD_FARMACO,CODICE_FARMACO,88,not_renamed,,"Regola 1: stessa variabile, cambia solo la grafia del nome."
+canonical,FN,12,IMPO_ALIMENTI_ANIM,CODICE_MERCEOLOGICO,CODICE_MERCE,77,not_renamed,,"Regola 1: stesso codice di nomenclatura della merce (es. 230910, 15029090)."
+canonical,FN,2,CASE_ACCREDIT_AASL,SIGLA_PROVINCIA_STRUTTURA,SIGLA_PROVINCIA,75,not_renamed,,"Regola 1: sigla della provincia della struttura (TO, VC...)."
+canonical,FN,1,FARM_VETERINA_AUTO,DESCRIZIONE_CONFEZIONE,DENOMINAZIONE_DELLA_CONFEZIONE,73,not_renamed,,Regola 1: descrizione della confezione del farmaco.
+canonical,FN,1,AUTO_DISTFARM_ELEN,DISTRIBUTORE,TIPOLOGIA_DISTRIBUTORE,71,not_renamed,,"Regola 1: i valori sono tipologie (Grossista, Produttore, Depositario)."
+canonical,FN,1,ELEN_NAZIONAL_DIRE,AZIENDA_SANITARIA,DENOMINAZIONE_AZIENDA_SANITARIA,71,not_renamed,,"Regola 1: nome dell'azienda sanitaria (TERAMO, PESCARA...)."
+canonical,FN,1,AUTO_DISTFARM_DETT,DEPOSITO_FARMACI_VETERINARI,FARMACI_VETERINARI_DEPOSITO,67,not_renamed,,"Regola 1: stesse parole in ordine diverso, valori SI/NO."
+canonical,FN,6,UTEN_INCARICO_SOST,CATEGORIA_SOSTANZA,DESCRIZIONE_SOSTANZA,63,not_renamed,,"Regola 1: stessa sostanza d'abuso (OPPIACEI, COCAINA...)."
+canonical,FP,7,FARM_ACQUISTI_AIFA,DESCRIZIONE_ATC1,DESCRIZIONE_ATC,97,renamed,,"descrizione del livello ATC1, non descrizione ATC generica: FP del fuzzy (ratio 97), esempio per il paper"
+canonical,FP,2,ETAS_DIMISSIO_OSPE,DENOMINAZIONE_ISTITUTO,DENOMINAZIONE_SITO,90,renamed,,Concetti diversi.
+files,FN,1,ACCE_SEMIRESI_EROG,NUMERO_DI_ACCESSI_SEMIRESIDENZIALE_DSM1,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,87,below_threshold,,"Correzione dell'etichetta 2025 (INCERTO): Regola 8: DSM1 nasce da un'intestazione duplicata e i valori sono utenti; suffisso spurio. Coerente con la coppia inversa (file 2023), validata MATCH."
+files,FN,1,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,NUMERO_DI_ACCESSI_SEMIRESIDENZIALE_DSM1,87,below_threshold,,Regola 8: DSM1 nasce da un'intestazione duplicata e i valori sono utenti; suffisso spurio.
+files,FN,1,COST_DISPMEDI_AASL,DENOMINAZIONE_AZIENDA,DENOMINAZIONE_AZIENDA_SANITARIA,81,below_threshold,,"Regola 1: stessa denominazione dell'azienda sanitaria (TO1, TO2...), cambia solo il nome della colonna."
+files,FN,1,IMPO_VEGETALE_MANG,DESTINAZIONE,LUOGO_DI_DESTINAZIONE,73,below_threshold,,Regola 1: entrambi la ragione sociale del destinatario.
+files,FN,1,IMPO_VEGETALE_MANG,LUOGO_DI_DESTINAZIONE,DESTINAZIONE,73,below_threshold,,Regola 1: entrambi la ragione sociale del destinatario.
+files,FN,1,DIAS_UTENTRAT_DDSM,DESCRIZIONE_REGIONE_DRILL,REGIONE,44,below_threshold,,"Correzione dell'etichetta 2025 (NON_MATCH, ""Concetti diversi""): i valori di DESCRIZIONE_REGIONE_DRILL sono nomi di regione, REGIONE viene da DESCRIZIONE_REGIONE. Stessa variabile (regola 1); coerente con la coppia inversa REGIONE -> DESCRIZIONE_REGIONE_DRILL."
+files,FN,1,DIAS_UTENTRAT_DDSM,REGIONE,DESCRIZIONE_REGIONE_DRILL,44,below_threshold,,"Regola 1: DESCRIZIONE_REGIONE_DRILL ha come valori i nomi delle regioni (PIEMONTE | VALLE D'AOSTA ...); REGIONE viene da DESCRIZIONE_REGIONE (dizionario). Stessa variabile, nome diverso: FN del fuzzy tra file (ratio 44)."

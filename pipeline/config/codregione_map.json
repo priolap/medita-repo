@@ -1,0 +1,613 @@
+{
+	 "ITF1": {
+        "NUTS2": "ITF1",
+        "ASL_CODE": "130",
+        "REGIONE": "ABRUZZO",
+        "NUTS3": {
+            "ITF11": {
+                "COMUNE": "L'Aquila",
+                "ISTAT_CODE": "66"
+            },
+            "ITF12": {
+                "COMUNE": "Teramo",
+                "ISTAT_CODE": "67"
+            },
+            "ITF13": {
+                "COMUNE": "Pescara",
+                "ISTAT_CODE": "68"
+            },
+            "ITF14": {
+                "COMUNE": "Chieti",
+                "ISTAT_CODE": "69"
+            }
+        }
+    },
+    
+	"ITF5": {
+        "NUTS2": "ITF5",
+        "ASL_CODE": "170",
+        "REGIONE": "BASILICATA",
+        "NUTS3": {
+            "ITF51": {
+                "COMUNE": "Potenza",
+                "ISTAT_CODE": "76"
+            },
+            "ITF52": {
+                "COMUNE": "Matera",
+                "ISTAT_CODE": "77"
+            }
+        }
+    },
+	
+    "ITF6": {
+        "NUTS2": "ITF6",
+        "ASL_CODE": "180",
+        "REGIONE": "CALABRIA",
+        "NUTS3": {
+            "ITF61": {
+                "COMUNE": "Cosenza",
+                "ISTAT_CODE": "78"
+            },
+            "ITF63": {
+                "COMUNE": "Catanzaro",
+                "ISTAT_CODE": "79"
+            },
+            "ITF62": {
+                "COMUNE": "Crotone",
+                "ISTAT_CODE": "101"
+            },
+            "ITF64": {
+                "COMUNE": "Vibo Valentia",
+                "ISTAT_CODE": "102"
+            },
+            "ITF65": {
+                "COMUNE": "Reggio Calabria",
+                "ISTAT_CODE": "280"
+            }
+        }
+    },
+	
+	    "ITF3": {
+        "NUTS2": "ITF3",
+        "ASL_CODE": "150",
+        "REGIONE": "CAMPANIA",
+        "NUTS3": {
+            "ITF31": {
+                "COMUNE": "Caserta",
+                "ISTAT_CODE": "61"
+            },
+            "ITF32": {
+                "COMUNE": "Benevento",
+                "ISTAT_CODE": "62"
+            },
+			 "ITF33": {
+                "COMUNE": "Napoli",
+                "ISTAT_CODE": "263"
+            },
+            "ITF34": {
+                "COMUNE": "Avellino",
+                "ISTAT_CODE": "64"
+            },
+            "ITF35": {
+                "COMUNE": "Salerno",
+                "ISTAT_CODE": "65"
+            }  
+        }
+    },
+	
+	"ITH5": {
+		"NUTS2": "ITH5",
+		"ASL_CODE": "080",
+		"REGIONE": "EMILIA-ROMAGNA",
+		"NUTS3": {
+			"ITH51": {
+				"COMUNE": "Piacenza",
+				"ISTAT_CODE": "33"
+			},
+			"ITH52": {
+				"COMUNE": "Parma",
+				"ISTAT_CODE": "34"
+			},
+			"ITH53": {
+				"COMUNE": "Reggio nell'Emilia",
+				"ISTAT_CODE": "35"
+			},
+			"ITH54": {
+				"COMUNE": "Modena",
+				"ISTAT_CODE": "36"
+			},
+			"ITH55": {
+				"COMUNE": "Bologna",
+				"ISTAT_CODE": "237"
+			},
+			"ITH56": {
+				"COMUNE": "Ferrara",
+				"ISTAT_CODE": "38"
+			},
+			"ITH57": {
+				"COMUNE": "Ravenna",
+				"ISTAT_CODE": "39"
+			},
+			"ITH58": {
+				"COMUNE": "Forl\u00ec-Cesena",
+				"ISTAT_CODE": "40"
+			},
+			"ITH59": {
+				"COMUNE": "Rimini",
+				"ISTAT_CODE": "99"
+			}
+		}
+	},
+	
+	"ITH4": {
+		"NUTS2": "ITH4",
+		"ASL_CODE": "060",
+		"REGIONE": "FRIULI-VENEZIA GIULIA",
+		"NUTS3": {
+			"ITH41": {
+				"COMUNE": "Pordenone",
+				"ISTAT_CODE": "93"
+			},
+			"ITH42": {
+				"COMUNE": "Udine",
+				"ISTAT_CODE": "30"
+			},
+			"ITH43": {
+				"COMUNE": "Gorizia",
+				"ISTAT_CODE": "31"
+			},
+			"ITH44": {
+				"COMUNE": "Trieste",
+				"ISTAT_CODE": "32"
+			}
+		}
+	},
+	
+	"ITI4": {
+        "NUTS2": "ITI4",
+        "ASL_CODE": "120",
+        "REGIONE": "LAZIO",
+        "NUTS3": {
+            "ITI41": {
+                "COMUNE": "Viterbo",
+                "ISTAT_CODE": "56"
+            },
+            "ITI42": {
+                "COMUNE": "Rieti",
+                "ISTAT_CODE": "57"
+            },
+            "ITI43": {
+                "COMUNE": "Roma",
+                "ISTAT_CODE": "258"
+            },
+            "ITI44": {
+                "COMUNE": "Latina",
+                "ISTAT_CODE": "59"
+            },
+            "ITI45": {
+                "COMUNE": "Frosinone",
+                "ISTAT_CODE": "60"
+			}
+		}
+	},
+   
+    "ITC4": {
+        "NUTS2": "ITC4",
+        "ASL_CODE": "030",
+        "REGIONE": "LOMBARDIA",
+        "NUTS3": {
+            "ITC41": {
+                "COMUNE": "Varese",
+                "ISTAT_CODE": "12"
+            },
+            "ITC42": {
+                "COMUNE": "Como",
+                "ISTAT_CODE": "13"
+            },
+			"ITC43": {
+                "COMUNE": "Lecco",
+                "ISTAT_CODE": "97"
+            },
+            "ITC44": {
+                "COMUNE": "Sondrio",
+                "ISTAT_CODE": "14"
+            },
+            "ITC46": {
+                "COMUNE": "Bergamo",
+                "ISTAT_CODE": "16"
+            },
+            "ITC47": {
+                "COMUNE": "Brescia",
+                "ISTAT_CODE": "17"
+            },
+            "ITC48": {
+                "COMUNE": "Pavia",
+                "ISTAT_CODE": "18"
+            },
+            "ITC4A": {
+                "COMUNE": "Cremona",
+                "ISTAT_CODE": "19"
+            },
+            "ITC4B": {
+                "COMUNE": "Mantova",
+                "ISTAT_CODE": "20"
+            },
+			"ITC4C": {
+                "COMUNE": "Milano",
+                "ISTAT_CODE": "215"
+            },
+            "ITC49": {
+                "COMUNE": "Lodi",
+                "ISTAT_CODE": "98"
+            },
+            "ITC4D": {
+                "COMUNE": "Monza e della Brianza",
+                "ISTAT_CODE": "108"
+            }
+        }
+    },
+   
+	"ITC3": {
+		"NUTS2": "ITC3",
+		 "ASL_CODE": "070",
+        "REGIONE": "LIGURIA",
+		"NUTS3": {
+			"ITC31": {
+				"COMUNE": "Imperia",
+				"ISTAT_CODE": "8"
+			},
+			"ITC32": {
+				"COMUNE": "Savona",
+				"ISTAT_CODE": "9"
+			},
+			"ITC34": {
+				"COMUNE": "La Spezia",
+				"ISTAT_CODE": "11"
+			},
+			"ITC33": {
+				"COMUNE": "Genova",
+				"ISTAT_CODE": "210"
+			}
+		}
+	},
+	
+    "ITI3": {
+        "NUTS2": "ITI3",
+        "ASL_CODE": "110",
+        "REGIONE": "MARCHE",
+        "NUTS3": {
+            "ITI31": {
+                "COMUNE": "Pesaro e Urbino",
+                "ISTAT_CODE": "41"
+            },
+            "ITI32": {
+                "COMUNE": "Ancona",
+                "ISTAT_CODE": "42"
+            },
+            "ITI33": {
+                "COMUNE": "Macerata",
+                "ISTAT_CODE": "43"
+            },
+            "ITI34": {
+                "COMUNE": "Ascoli Piceno",
+                "ISTAT_CODE": "44"
+            },
+            "ITI35": {
+                "COMUNE": "Fermo",
+                "ISTAT_CODE": "109"
+            }
+        }
+    },
+    
+	"ITF2": {
+        "NUTS2": "ITF2",
+        "ASL_CODE": "140",
+        "REGIONE": "MOLISE",
+        "NUTS3": {
+            "ITF22": {
+                "COMUNE": "Campobasso",
+                "ISTAT_CODE": "70"
+            },
+            "ITF21": {
+                "COMUNE": "Isernia",
+                "ISTAT_CODE": "94"
+            }
+        }
+    },
+	
+
+	 "ITC1": {
+        "NUTS2": "ITC1",
+        "ASL_CODE": "010",
+        "REGIONE": "PIEMONTE",
+        "NUTS3": {
+			"ITC11": {
+                "COMUNE": "Torino",
+                "ISTAT_CODE": "201"
+            },
+            "ITC12": {
+                "COMUNE": "Vercelli",
+                "ISTAT_CODE": "2"
+            },
+			"ITC13": {
+                "COMUNE": "Biella",
+                "ISTAT_CODE": "96"
+            },
+            "ITC14": {
+                "COMUNE": "Verbano-Cusio-Ossola",
+                "ISTAT_CODE": "103"
+            },
+            "ITC15": {
+                "COMUNE": "Novara",
+                "ISTAT_CODE": "3"
+            },
+            "ITC16": {
+                "COMUNE": "Cuneo",
+                "ISTAT_CODE": "4"
+            },
+            "ITC17": {
+                "COMUNE": "Asti",
+                "ISTAT_CODE": "5"
+            },
+            "ITC18": {
+                "COMUNE": "Alessandria",
+                "ISTAT_CODE": "6"
+            }
+        }
+    },
+	
+    "ITF4": {
+        "NUTS2": "ITF4",
+        "ASL_CODE": "160",
+        "REGIONE": "PUGLIA",
+        "NUTS3": {
+            "ITF43": {
+                "COMUNE": "Taranto",
+                "ISTAT_CODE": "73"
+            },
+            "ITF44": {
+                "COMUNE": "Brindisi",
+                "ISTAT_CODE": "74"
+            },
+            "ITF45": {
+                "COMUNE": "Lecce",
+                "ISTAT_CODE": "75"
+            },
+			 "ITF46": {
+                "COMUNE": "Foggia",
+                "ISTAT_CODE": "71"
+            },
+			"ITF47": {
+                "COMUNE": "Bari",
+                "ISTAT_CODE": "272"
+            },
+            "ITF48": {
+                "COMUNE": "Barletta-Andria-Trani",
+                "ISTAT_CODE": "110"
+            }
+        }
+    },
+
+
+    "ITG2": {
+        "NUTS2": "ITG2",
+        "ASL_CODE": "200",
+        "REGIONE": "SARDEGNA",
+        "NUTS3": {
+            "ITG2D": {
+                "COMUNE": "Sassari",
+                "ISTAT_CODE": "90"
+            },
+            "ITG2E": {
+                "COMUNE": "Nuoro",
+                "ISTAT_CODE": "91"
+            },
+            "ITG2G": {
+                "COMUNE": "Oristano",
+                "ISTAT_CODE": "95"
+            },
+            "ITG2H": {
+                "COMUNE": "Sud Sardegna",
+                "ISTAT_CODE": "111"
+            },
+            "ITG2F": {
+                "COMUNE": "Cagliari",
+                "ISTAT_CODE": "292"
+            }
+        }
+    },
+	
+	"ITG1": {
+        "NUTS2": "ITG1",
+        "ASL_CODE": "190",
+        "REGIONE": "SICILIA",
+        "NUTS3": {
+            "ITG11": {
+                "COMUNE": "Trapani",
+                "ISTAT_CODE": "81"
+            },
+            "ITG14": {
+                "COMUNE": "Agrigento",
+                "ISTAT_CODE": "84"
+            },
+            "ITG15": {
+                "COMUNE": "Caltanissetta",
+                "ISTAT_CODE": "85"
+            },
+            "ITG16": {
+                "COMUNE": "Enna",
+                "ISTAT_CODE": "86"
+            },
+            "ITG18": {
+                "COMUNE": "Ragusa",
+                "ISTAT_CODE": "88"
+            },
+            "ITG19": {
+                "COMUNE": "Siracusa",
+                "ISTAT_CODE": "89"
+            },
+            "ITG12": {
+                "COMUNE": "Palermo",
+                "ISTAT_CODE": "282"
+            },
+            "ITG13": {
+                "COMUNE": "Messina",
+                "ISTAT_CODE": "283"
+            },
+            "ITG17": {
+                "COMUNE": "Catania",
+                "ISTAT_CODE": "287"
+            }
+        }
+    },
+	 
+    "ITI1": {
+        "NUTS2": "ITI1",
+        "ASL_CODE": "090",
+        "REGIONE": "TOSCANA",
+        "NUTS3": {
+            "ITI11": {
+                "COMUNE": "Massa-Carrara",
+                "ISTAT_CODE": "45"
+            },
+            "ITI12": {
+                "COMUNE": "Lucca",
+                "ISTAT_CODE": "46"
+            },
+            "ITI13": {
+                "COMUNE": "Pistoia",
+                "ISTAT_CODE": "47"
+            },
+            "ITI16": {
+                "COMUNE": "Livorno",
+                "ISTAT_CODE": "49"
+            },
+            "ITI17": {
+                "COMUNE": "Pisa",
+                "ISTAT_CODE": "50"
+            },
+            "ITI18": {
+                "COMUNE": "Arezzo",
+                "ISTAT_CODE": "51"
+            },
+            "ITI19": {
+                "COMUNE": "Siena",
+                "ISTAT_CODE": "52"
+            },
+            "ITI1A": {
+                "COMUNE": "Grosseto",
+                "ISTAT_CODE": "53"
+            },
+            "ITI15": {
+                "COMUNE": "Prato",
+                "ISTAT_CODE": "100"
+            },
+            "ITI14": {
+                "COMUNE": "Firenze",
+                "ISTAT_CODE": "248"
+            }
+        }
+    },
+	
+	"ITH0": {
+		"NUTS2": "ITH0",
+		"ASL_CODE": "040",
+		"REGIONE": "TRENTINO-ALTO ADIGE",
+		"NUTS3": {
+			"ITH20": {
+				"COMUNE": "Provincia Autonoma Trento",
+				"ISTAT_code": "22"
+			},
+			"ITH10": {
+				"COMUNE": "Provincia Autonoma Bolzano",
+				"ISTAT_code": "21"
+			}
+		}
+	},
+	"ITH2": {
+		"NUTS2": "ITH2",
+		"ASL_CODE": "042",
+		"REGIONE": "PROV. AUTON. TRENTO",
+		"NUTS3": {
+			"ITH20": {
+				"COMUNE": "Provincia Autonoma Trento",
+				"ISTAT_code": "22"
+			}
+		}
+	},
+	"ITH1": {
+		"NUTS2": "ITH1",
+		"ASL_CODE": "041",
+		"REGIONE": "PROV. AUTON. BOLZANO",
+		"NUTS3": {
+			"ITH10": {
+				"COMUNE": "Provincia Autonoma Bolzano",
+				"ISTAT_code": "21"
+			}
+		}
+	},
+	
+    "ITI2": {
+        "NUTS2": "ITI2",
+        "ASL_CODE": "100",
+        "REGIONE": "UMBRIA",
+        "NUTS3": {
+            "ITI21": {
+                "COMUNE": "Perugia",
+                "ISTAT_CODE": "54"
+            },
+            "ITI22": {
+                "COMUNE": "Terni",
+                "ISTAT_CODE": "55"
+            }
+        }
+    },
+	
+	"ITC2": {
+		"NUTS2": "ITC2",
+		"ASL_CODE": "020",
+		"REGIONE": "VALLE D'AOSTA",
+		"NUTS3": {
+			"ITC20": {
+				"COMUNE": "Valle d'Aosta/Vall\u00e9e d'Aoste",
+				"ISTAT_CODE": "7"
+			}
+		}
+	},
+	
+	"ITH3": {
+        "NUTS2": "ITH3",
+        "ASL_CODE": "050",
+        "REGIONE": "VENETO",
+        "NUTS3": {
+            "ITH31": {
+                "COMUNE": "Verona",
+                "ISTAT_CODE": "23"
+            },
+            "ITH32": {
+                "COMUNE": "Vicenza",
+                "ISTAT_CODE": "24"
+            },
+            "ITH33": {
+                "COMUNE": "Belluno",
+                "ISTAT_CODE": "25"
+            },
+            "ITH34": {
+                "COMUNE": "Treviso",
+                "ISTAT_CODE": "26"
+            },
+            "ITH36": {
+                "COMUNE": "Padova",
+                "ISTAT_CODE": "28"
+            },
+            "ITH37": {
+                "COMUNE": "Rovigo",
+                "ISTAT_CODE": "29"
+            },
+            "ITH35": {
+                "COMUNE": "Venezia",
+                "ISTAT_CODE": "227"
+            }
+        }
+    }
+}

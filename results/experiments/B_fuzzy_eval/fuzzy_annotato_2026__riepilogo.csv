@@ -1,0 +1,16 @@
+voce,valore
+righe dei log in cui interviene il fuzzy,1394
+righe escluse (errore della fonte),27
+righe valutate (applicazioni del fuzzy),1367
+"coppie distinte (step, colonna, candidato)",546
+coppie con etichetta 2025 riportata,393
+coppie nuove,153
+coppie nuove senza etichetta,0
+coppie AIFA canonical,10
+coppie ISTAT canonical,124
+coppie MINIS canonical,203
+coppie MINIS files,139
+coppie MINIS sheets,70
+coppie con LABEL INCERTO,8
+coppie con LABEL MATCH,85
+coppie con LABEL NON_MATCH,453

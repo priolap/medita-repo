@@ -1,0 +1,8 @@
+voce,valore,esito
+tabelle per stato,"{('AIFA', 'analizzata'): 1, ('ISTAT', 'analizzata'): 17, ('MINIS', 'analizzata'): 31, ('MINIS', 'esclusa: nessuna misura numerica (elenco)'): 4, ('MINIS', 'esclusa: senza ANNO (elenco)'): 11, ('MINIS', 'esclusa: senza ANNO (elenco); colonne anno: ANNO_DI_DIMISSIONE'): 1, ('MINIS', 'esclusa: senza CODICE_REGIONE'): 17}",
+lettura (s),120,
+tabelle-anno con misure non pubblicate (cambio di schema della fonte),3,
+celle (21 unita'),10227,
+celle per tipo (21 unita'),"{'completa': 9200, 'anno non pubblicato': 357, 'valori mancanti': 339, 'regione assente': 226, 'completa (vuoti di formato AIFA)': 105}",
+tabelle-anno pubblicate (20 regioni),470,
+tabelle-anno confrontabili su 20 regioni,340 (72.3%),

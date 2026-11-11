@@ -1,0 +1,22 @@
+fonte,config,step_supervisor,var_code,var_code_ok,var_code_errore,var_code_con_effetto,tabelle,delta_tabelle,righe,delta_righe,righe_identiche,dup_chiave,chiave_assente,righe_cod_non_valido,senza_codice_regione,col_extra,col_mancanti,indicatori_persi,delta_valori_num_%,delta_somma_num_%
+AIFA,full,-,1,1,0,,1,,1270462,,0,0,0,0,0,0,0,0,,
+AIFA,no_structure,structure mapping,1,1,0,1.0,7,6.0,1270462,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+AIFA,no_fuzzy,fuzzy matching,1,1,0,1.0,1,0.0,1270462,0.0,0,0,1,0,0,1,1,0,0.0,0.0
+AIFA,no_dictionary,(dizionario),1,1,0,1.0,1,0.0,1215982,-54480.0,0,0,1,0,1,1,2,0,-4.247,-1.447
+AIFA,no_dictionary_no_fuzzy,(dizionario + fuzzy),1,1,0,1.0,1,0.0,1215982,-54480.0,0,0,1,0,1,2,3,0,-4.247,-1.447
+AIFA,no_harmonization,harmonization,1,1,0,1.0,1,0.0,1215982,-54480.0,0,0,0,1215982,0,0,1,0,-4.247,-1.447
+AIFA,no_numfmt,standardization (formato numeri),1,1,0,0.0,1,0.0,1270462,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+MINIS,full,-,61,61,0,,63,,11164192,,106902,0,0,0,0,0,0,0,,
+MINIS,no_structure,structure mapping,61,61,0,30.0,242,179.0,11164227,35.0,106902,0,0,0,0,0,0,0,0.0,0.0
+MINIS,no_fuzzy,fuzzy matching,61,61,0,16.0,63,0.0,11164194,2.0,106902,716847,3,0,0,32,15,3,-50.97,-0.048
+MINIS,no_dictionary,(dizionario),61,59,2,50.0,61,0.0,4622887,2608.0,106902,31,31,0,4,152,110,16,-5.156,-6.093
+MINIS,no_dictionary_no_fuzzy,(dizionario + fuzzy),61,59,2,55.0,61,0.0,4622530,2251.0,106902,31,34,0,4,185,129,19,-6.617,-6.113
+MINIS,no_harmonization,harmonization,61,61,0,45.0,63,0.0,11029149,-135043.0,106902,0,1,6945983,0,0,49,0,-1.298,-0.001
+MINIS,no_numfmt,standardization (formato numeri),61,61,0,16.0,63,0.0,10970115,-194077.0,300979,0,0,0,0,0,0,0,-67.916,-9.434
+ISTAT,full,-,17,17,0,,17,,8257658,,0,0,0,0,0,0,0,0,,
+ISTAT,no_structure,structure mapping,17,17,0,0.0,17,0.0,8257658,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+ISTAT,no_fuzzy,fuzzy matching,17,17,0,0.0,17,0.0,8257658,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+ISTAT,no_dictionary,(dizionario),17,17,0,17.0,17,0.0,33584607,25326949.0,0,0,17,0,17,51,68,0,306.467,574.326
+ISTAT,no_dictionary_no_fuzzy,(dizionario + fuzzy),17,17,0,17.0,17,0.0,33584607,25326949.0,0,0,17,0,17,51,68,0,306.467,574.326
+ISTAT,no_harmonization,harmonization,17,17,0,17.0,17,0.0,33584607,25326949.0,0,2546,0,29184484,0,0,17,0,306.467,574.326
+ISTAT,no_numfmt,standardization (formato numeri),17,17,0,1.0,17,0.0,8257658,0.0,0,0,0,0,0,0,0,0,0.0,-10.578

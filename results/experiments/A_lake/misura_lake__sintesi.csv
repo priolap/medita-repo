@@ -1,0 +1,11 @@
+MISURA,VALORE
+"Load sul lake, tempo totale (s), mediana delle ripetizioni",215.8
+  di cui bronze (catalogo + SHA-256 dei grezzi) (s),34.8
+  di cui silver (s),131.9
+  di cui gold (s),49.1
+Lake nuovo (una versione): byte totali,1238556991.0
+  silver + gold (confrontabile con DB.sql + DB_ts.sql): byte,1238479117.0
+DB.sql + DB_ts.sql: byte,9056067584.0
+Rapporto (silver + gold) / SQLite,0.1368
+Lake vero (MEDITA/lake/): byte totali,2682124173.0
+Lake vero: byte dell'ultima versione,1237852055.0

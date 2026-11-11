@@ -1,0 +1,6 @@
+operation,n,n_ok,ok_all,median_s,min_s,max_s
+append_transazionale,9,9,True,0.2046,0.166,0.2327
+time_travel,9,9,True,0.0064,0.0042,0.0083
+schema_evolution,9,9,True,0.0289,0.0166,0.0344
+schema_enforcement,9,9,True,0.0547,0.0482,0.062
+rollback_restore,9,9,True,0.0193,0.0143,0.0273

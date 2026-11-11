@@ -1,0 +1,15 @@
+{
+  "path": ".",
+  "settings": {
+    "NEW_INFO": false,
+    "UPDATE": false
+  },
+  "sources": {
+    "text": {},
+    "data": {
+		"AIFA": { "Extract": false, "Transform": false, "Load": true },
+		"MINIS": { "Extract": false, "Transform": false, "Load": true },
+        "ISTAT": { "Extract": false, "Transform": false, "Load": true }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "espritz/hank-c0-repro",
+  "title": "hank-c0-repro",
+  "code_file": "run_c0_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["espritz/medita-news-chunk512-over64-2", "espritz/hank-c-inputs"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

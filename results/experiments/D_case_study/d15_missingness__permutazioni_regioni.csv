@@ -1,0 +1,61 @@
+AMBITO,COD,NOME,OSSERVATO,ATTESO_H0,P2_5,P97_5,SOPRA_INTERVALLO
+tutte le fonti,ITC1,Piemonte,10,24.675,17,33.0,False
+tutte le fonti,ITC2,Valle d'Aosta,82,24.526,17,32.0,True
+tutte le fonti,ITC3,Liguria,13,24.572,17,32.0,False
+tutte le fonti,ITC4,Lombardia,10,24.559,17,33.0,False
+tutte le fonti,ITF1,Abruzzo,25,24.663,17,33.0,False
+tutte le fonti,ITF2,Molise,64,24.622,17,33.0,True
+tutte le fonti,ITF3,Campania,15,24.53,17,32.0,False
+tutte le fonti,ITF4,Puglia,10,24.644,17,33.0,False
+tutte le fonti,ITF5,Basilicata,62,24.623,17,33.0,True
+tutte le fonti,ITF6,Calabria,24,24.646,17,33.0,False
+tutte le fonti,ITG1,Sicilia,10,24.602,17,33.0,False
+tutte le fonti,ITG2,Sardegna,35,24.59,17,32.0,True
+tutte le fonti,ITH0,Trentino-Alto Adige,48,24.578,17,33.0,True
+tutte le fonti,ITH3,Veneto,7,24.653,17,33.0,False
+tutte le fonti,ITH4,Friuli-Venezia Giulia,15,24.515,17,32.0,False
+tutte le fonti,ITH5,Emilia-Romagna,8,24.588,17,32.025,False
+tutte le fonti,ITI1,Toscana,16,24.653,17,33.0,False
+tutte le fonti,ITI2,Umbria,15,24.607,17,32.0,False
+tutte le fonti,ITI3,Marche,12,24.573,17,32.0,False
+tutte le fonti,ITI4,Lazio,11,24.58,17,32.0,False
+MINIS,ITC1,Piemonte,9,15.909,10,22.0,False
+MINIS,ITC2,Valle d'Aosta,32,15.957,10,22.0,True
+MINIS,ITC3,Liguria,9,15.97,10,22.0,False
+MINIS,ITC4,Lombardia,8,15.934,10,22.0,False
+MINIS,ITF1,Abruzzo,20,15.954,10,22.0,False
+MINIS,ITF2,Molise,30,15.958,10,22.0,True
+MINIS,ITF3,Campania,14,15.941,10,22.0,False
+MINIS,ITF4,Puglia,9,15.954,10,22.0,False
+MINIS,ITF5,Basilicata,36,15.971,10,22.0,True
+MINIS,ITF6,Calabria,21,16.029,10,22.0,False
+MINIS,ITG1,Sicilia,9,15.948,10,22.0,False
+MINIS,ITG2,Sardegna,32,15.944,10,22.0,True
+MINIS,ITH0,Trentino-Alto Adige,31,15.939,10,22.0,True
+MINIS,ITH3,Veneto,6,15.966,10,22.0,False
+MINIS,ITH4,Friuli-Venezia Giulia,12,15.977,10,22.0,False
+MINIS,ITH5,Emilia-Romagna,6,15.956,10,22.0,False
+MINIS,ITI1,Toscana,13,15.931,10,22.0,False
+MINIS,ITI2,Umbria,3,15.91,10,22.0,False
+MINIS,ITI3,Marche,9,15.962,10,22.0,False
+MINIS,ITI4,Lazio,10,15.892,10,22.0,False
+ISTAT,ITC1,Piemonte,1,8.674,4,14.0,False
+ISTAT,ITC2,Valle d'Aosta,50,8.664,4,14.0,True
+ISTAT,ITC3,Liguria,4,8.653,4,14.0,False
+ISTAT,ITC4,Lombardia,2,8.597,4,14.0,False
+ISTAT,ITF1,Abruzzo,5,8.638,4,14.0,False
+ISTAT,ITF2,Molise,34,8.657,4,14.0,True
+ISTAT,ITF3,Campania,1,8.629,4,14.0,False
+ISTAT,ITF4,Puglia,1,8.636,4,14.0,False
+ISTAT,ITF5,Basilicata,26,8.66,4,14.0,True
+ISTAT,ITF6,Calabria,3,8.677,4,14.0,False
+ISTAT,ITG1,Sicilia,1,8.637,4,14.0,False
+ISTAT,ITG2,Sardegna,3,8.675,4,14.0,False
+ISTAT,ITH0,Trentino-Alto Adige,17,8.678,4,14.0,True
+ISTAT,ITH3,Veneto,1,8.629,4,14.0,False
+ISTAT,ITH4,Friuli-Venezia Giulia,3,8.62,4,14.0,False
+ISTAT,ITH5,Emilia-Romagna,2,8.622,4,14.0,False
+ISTAT,ITI1,Toscana,3,8.669,4,14.0,False
+ISTAT,ITI2,Umbria,12,8.681,4,14.0,False
+ISTAT,ITI3,Marche,3,8.644,4,14.0,False
+ISTAT,ITI4,Lazio,1,8.661,4,14.0,False

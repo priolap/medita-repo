@@ -1,0 +1,6 @@
+voce,valore
+eseguito,2026-10-29 19:11
+timeout (s),120
+algoritmo,"ricerca esaustiva per grandezza crescente (itertools.combinations), si ferma alla prima combinazione senza duplicati"
+complessita',"O(N * somma_{r<=k} C(n,r)) con k = grandezza della chiave trovata; O(N * 2^n) se non esiste chiave"
+nota,combinazioni = combinazioni provate fino alla chiave (stesso ordine della funzione)

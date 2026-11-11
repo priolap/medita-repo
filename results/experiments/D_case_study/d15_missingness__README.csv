@@ -1,0 +1,9 @@
+voce,definizione
+cella,"(tabella, unita', anno) su 21 unita' e su tutti gli anni dal primo all'ultimo pubblicato"
+anno non pubblicato,nessuna unita' ha righe nell'anno
+regione assente,anno pubblicato ma non per l'unita'
+valori mancanti,"righe presenti con almeno una misura vuota o non numerica, tra le misure pubblicate nell'anno (una misura vuota per tutte le unita' dell'anno e' 'non pubblicata': foglio misure_non_pubblicate)"
+completa (vuoti di formato AIFA),AIFA: vuoto = 0 per convenzione della fonte dal 2019 (verificato sui grezzi)
+confrontabile,tabella-anno pubblicata con tutte le 20 regioni complete
+Trentino,"ITH0 se presente nella tabella-anno, altrimenti ITH1 e ITH2 entrambe complete"
+test,permutazione delle regioni dentro ogni tabella-anno; statistica = varianza tra regioni del numero di tabelle-anno incomplete

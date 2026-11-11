@@ -1,0 +1,6 @@
+REGIONE,ANNO,AIFA_CODICE_GREZZO,AIFA_NOME_GREZZO,MINIS_CODICE_GREZZO,MINIS_NOME_GREZZO,ISTAT_CODICE_GREZZO,ISTAT_NOME_GREZZO,MEDITA_CODICE_REGIONE,JOIN_R0 codici originali,JOIN_R1 nomi normalizzati,JOIN_H MEDITA
+Lombardia,2019,030,LOMBARDI,030,LOMBARDIA,ITC4,Lombardia,ITC4,no,no,sì
+Valle d'Aosta,2019,020,VALLE D',020,VALLE D`AOSTA,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC2,no,no,sì
+P.A. Bolzano,2019,041,PA BOLZA,041,PROV. AUTON. BOLZANO,ITD1,Provincia Autonoma Bolzano / Bozen,ITH1,no,no,sì
+Trentino-Alto Adige,2019,—,—,—,—,ITDA,Trentino Alto Adige / Südtirol,ITH0 (ITH1 + ITH2),no,no,sì
+Lazio,2019,120,LAZIO,120,LAZIO,ITE4,Lazio,ITI4,no,sì,sì

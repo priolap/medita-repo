@@ -1,0 +1,73 @@
+SET,LEVEL,MODEL,CONTESTO,SI_ASTIENE,RISPONDE,TOTALE
+ALL,ALL,gemma2,contesto insufficiente (gold = astensione),156,24,180
+ALL,ALL,gemma2,contesto sufficiente,4,116,120
+ALL,ALL,gemma2,totale,160,140,300
+ALL,ALL,llama3,contesto insufficiente (gold = astensione),137,43,180
+ALL,ALL,llama3,contesto sufficiente,28,92,120
+ALL,ALL,llama3,totale,165,135,300
+ALL,LOW,gemma2,contesto insufficiente (gold = astensione),65,8,73
+ALL,LOW,gemma2,contesto sufficiente,1,26,27
+ALL,LOW,gemma2,totale,66,34,100
+ALL,LOW,llama3,contesto insufficiente (gold = astensione),55,18,73
+ALL,LOW,llama3,contesto sufficiente,7,20,27
+ALL,LOW,llama3,totale,62,38,100
+ALL,MID,gemma2,contesto insufficiente (gold = astensione),48,7,55
+ALL,MID,gemma2,contesto sufficiente,3,42,45
+ALL,MID,gemma2,totale,51,49,100
+ALL,MID,llama3,contesto insufficiente (gold = astensione),46,9,55
+ALL,MID,llama3,contesto sufficiente,12,33,45
+ALL,MID,llama3,totale,58,42,100
+ALL,HIGH,gemma2,contesto insufficiente (gold = astensione),43,9,52
+ALL,HIGH,gemma2,contesto sufficiente,0,48,48
+ALL,HIGH,gemma2,totale,43,57,100
+ALL,HIGH,llama3,contesto insufficiente (gold = astensione),36,16,52
+ALL,HIGH,llama3,contesto sufficiente,9,39,48
+ALL,HIGH,llama3,totale,45,55,100
+paper,ALL,gemma2,contesto insufficiente (gold = astensione),42,4,46
+paper,ALL,gemma2,contesto sufficiente,3,51,54
+paper,ALL,gemma2,totale,45,55,100
+paper,ALL,llama3,contesto insufficiente (gold = astensione),27,19,46
+paper,ALL,llama3,contesto sufficiente,9,45,54
+paper,ALL,llama3,totale,36,64,100
+paper,LOW,gemma2,contesto insufficiente (gold = astensione),18,2,20
+paper,LOW,gemma2,contesto sufficiente,1,13,14
+paper,LOW,gemma2,totale,19,15,34
+paper,LOW,llama3,contesto insufficiente (gold = astensione),12,8,20
+paper,LOW,llama3,contesto sufficiente,3,11,14
+paper,LOW,llama3,totale,15,19,34
+paper,MID,gemma2,contesto insufficiente (gold = astensione),12,1,13
+paper,MID,gemma2,contesto sufficiente,2,18,20
+paper,MID,gemma2,totale,14,19,33
+paper,MID,llama3,contesto insufficiente (gold = astensione),9,4,13
+paper,MID,llama3,contesto sufficiente,4,16,20
+paper,MID,llama3,totale,13,20,33
+paper,HIGH,gemma2,contesto insufficiente (gold = astensione),12,1,13
+paper,HIGH,gemma2,contesto sufficiente,0,20,20
+paper,HIGH,gemma2,totale,12,21,33
+paper,HIGH,llama3,contesto insufficiente (gold = astensione),6,7,13
+paper,HIGH,llama3,contesto sufficiente,2,18,20
+paper,HIGH,llama3,totale,8,25,33
+new,ALL,gemma2,contesto insufficiente (gold = astensione),114,20,134
+new,ALL,gemma2,contesto sufficiente,1,65,66
+new,ALL,gemma2,totale,115,85,200
+new,ALL,llama3,contesto insufficiente (gold = astensione),110,24,134
+new,ALL,llama3,contesto sufficiente,19,47,66
+new,ALL,llama3,totale,129,71,200
+new,LOW,gemma2,contesto insufficiente (gold = astensione),47,6,53
+new,LOW,gemma2,contesto sufficiente,0,13,13
+new,LOW,gemma2,totale,47,19,66
+new,LOW,llama3,contesto insufficiente (gold = astensione),43,10,53
+new,LOW,llama3,contesto sufficiente,4,9,13
+new,LOW,llama3,totale,47,19,66
+new,MID,gemma2,contesto insufficiente (gold = astensione),36,6,42
+new,MID,gemma2,contesto sufficiente,1,24,25
+new,MID,gemma2,totale,37,30,67
+new,MID,llama3,contesto insufficiente (gold = astensione),37,5,42
+new,MID,llama3,contesto sufficiente,8,17,25
+new,MID,llama3,totale,45,22,67
+new,HIGH,gemma2,contesto insufficiente (gold = astensione),31,8,39
+new,HIGH,gemma2,contesto sufficiente,0,28,28
+new,HIGH,gemma2,totale,31,36,67
+new,HIGH,llama3,contesto insufficiente (gold = astensione),30,9,39
+new,HIGH,llama3,contesto sufficiente,7,21,28
+new,HIGH,llama3,totale,37,30,67

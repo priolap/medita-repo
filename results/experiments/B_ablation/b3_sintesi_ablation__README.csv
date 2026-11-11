@@ -1,0 +1,7 @@
+voce,valore
+contenuto,"Ablation della Transform (tasks_MPP n.5, b3): sintesi delle tre fonti, VAR_CODE con effetto, errori, controllo di full, file usati."
+nota sintesi,"Le somme sono sui VAR_CODE riusciti sia in full sia nella configurazione: per confrontare le configurazioni usare i delta, non le righe assolute."
+valori_num,valori_num conta i valori leggibili come numero nelle colonne numeriche CANONICHE: un valore finito in una colonna non canonica non e' perso dal file ma non e' integrabile.
+no_structure,"Le tabelle non coincidono con quelle di full: niente confronti per tabella (chiave, colonne), solo totali."
+perimetro,"AIFA 1 VAR_CODE; MINIS 61 VAR_CODE (ALIM_EXCHANGE_VIVI escluso, decisione 29/10); ISTAT 17/17 tabelle (12 in modalita' standard, 5 grandi con --leggero)."
+aggiornato,31/10/2026

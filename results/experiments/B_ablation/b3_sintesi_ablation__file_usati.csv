@@ -1,0 +1,9 @@
+fonte,file,configurazioni,durata_s,modalita,var_code
+AIFA,ablation_AIFA_20261025_20261030_125435.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",1194,standard (cache in memoria),FARM_ACQUISTI_AIFA
+MINIS,ablation_MINIS_20261025_20261030_150236.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",7679,standard (cache in memoria),61 VAR_CODE
+ISTAT,ablation_ISTAT_20261027_20261030_183212.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",6899,standard (cache in memoria),12 VAR_CODE
+ISTAT,ablation_ISTAT_20261027_20261030_190721.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",1397,"leggera (senza cache, export su file)",DCCV_AVQ_PERSONE1
+ISTAT,ablation_ISTAT_20261027_20261030_200945.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",3743,"leggera (senza cache, export su file)",DCIS_CMORTEM
+ISTAT,ablation_ISTAT_20261027_20261030_205742.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",2874,"leggera (senza cache, export su file)",DCCV_AVQ_PERSONE
+ISTAT,ablation_ISTAT_20261027_20261031_011250.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",15306,"leggera (senza cache, export su file)",DCIS_MORTALITA1
+ISTAT,ablation_ISTAT_20261027_20261031_071958.xlsx,"full, no_harmonization, no_structure, no_fuzzy, no_dictionary, no_dictionary_no_fuzzy, no_numfmt",22021,"leggera (senza cache, export su file)",DCIS_DECESSI

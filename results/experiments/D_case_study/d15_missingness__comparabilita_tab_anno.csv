@@ -1,0 +1,471 @@
+FONTE,TABELLA,TAG,DOMINIO,ANNO,REGIONI_COMPLETE,REGIONI_INCOMPLETE,CONFRONTABILE_20,NOMI_INCOMPLETE,TIPI
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2018,20,0,True,,
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2019,20,0,True,,
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2020,20,0,True,,
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2021,20,0,True,,
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2022,20,0,True,,
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2023,20,0,True,,
+AIFA,FARM_ACQUISTI_AIFA,Farmaceutica,AIFA: Farmaceutica,2024,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2008,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2009,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2010,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2011,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2012,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2013,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2014,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2015,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2017,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2018,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2019,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2020,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2021,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2022,20,0,True,,
+ISTAT,DCAR_ENTPREVDIP_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2023,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2008,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2009,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2010,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2011,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2012,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2013,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2015,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2016,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2017,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2018,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2019,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2020,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2021,20,0,True,,
+ISTAT,DCAR_ENTPREVENT_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2022,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2008,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2009,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2010,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2011,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2012,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2013,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2014,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2015,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2016,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2017,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2018,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2019,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2020,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2021,20,0,True,,
+ISTAT,DCAR_ENTPREVSPE_PA,Previdenza Sociale,ISTAT: Previdenza Sociale,2022,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1993,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1994,19,1,False,Molise,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1995,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1996,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1997,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1998,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1999,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2000,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2001,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2002,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2003,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2005,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2006,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2007,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2008,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2009,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2010,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2011,18,2,False,"Valle d'Aosta, Basilicata",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2012,18,2,False,"Valle d'Aosta, Molise",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2013,18,2,False,"Valle d'Aosta, Basilicata",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2014,17,3,False,"Valle d'Aosta, Molise, Basilicata",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2015,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2016,18,2,False,"Valle d'Aosta, Molise",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2017,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2018,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2019,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2020,18,2,False,"Valle d'Aosta, Molise",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2021,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2022,20,0,True,,
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2023,18,2,False,"Valle d'Aosta, Molise",valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2024,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_FAMIGLIE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2025,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2001,16,4,False,"Valle d'Aosta, Molise, Sardegna, Umbria",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2002,15,5,False,"Valle d'Aosta, Liguria, Abruzzo, Molise, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2003,16,4,False,"Valle d'Aosta, Molise, Basilicata, Umbria",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2005,14,6,False,"Valle d'Aosta, Molise, Basilicata, Umbria, Marche, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2006,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2007,14,6,False,"Valle d'Aosta, Liguria, Molise, Basilicata, Umbria, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2008,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2009,15,5,False,"Valle d'Aosta, Molise, Basilicata, Friuli-Venezia Giulia, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2010,17,3,False,"Valle d'Aosta, Molise, Basilicata",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2011,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2012,15,5,False,"Valle d'Aosta, Molise, Basilicata, Umbria, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2013,15,5,False,"Valle d'Aosta, Molise, Basilicata, Calabria, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2014,15,5,False,"Valle d'Aosta, Molise, Basilicata, Emilia-Romagna, Umbria",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2015,15,5,False,"Valle d'Aosta, Lombardia, Molise, Basilicata, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2016,14,6,False,"Valle d'Aosta, Abruzzo, Molise, Basilicata, Umbria, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2017,15,5,False,"Valle d'Aosta, Liguria, Molise, Basilicata, Toscana",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2018,14,6,False,"Valle d'Aosta, Abruzzo, Molise, Basilicata, Umbria, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2019,16,4,False,"Valle d'Aosta, Molise, Basilicata, Umbria",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2020,14,6,False,"Valle d'Aosta, Molise, Calabria, Sardegna, Toscana, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2021,17,3,False,"Valle d'Aosta, Molise, Basilicata",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2022,16,4,False,"Valle d'Aosta, Molise, Basilicata, Umbria",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2023,15,5,False,"Valle d'Aosta, Abruzzo, Molise, Basilicata, Friuli-Venezia Giulia",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2024,15,5,False,"Valle d'Aosta, Molise, Basilicata, Umbria, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2025,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1993,19,1,False,Marche,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1994,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1995,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1996,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1997,18,2,False,"Valle d'Aosta, Molise",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1998,19,1,False,Molise,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,1999,19,1,False,Molise,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2000,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2001,19,1,False,Basilicata,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2002,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2003,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2005,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2006,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2007,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2008,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2009,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2010,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2011,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2012,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2013,18,2,False,"Valle d'Aosta, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2014,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2015,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2016,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2017,0,20,False,"Piemonte, Valle d'Aosta, Liguria, Lombardia, Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Umbria, Marche, Lazio, Trentino-Alto Adige",valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2018,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2019,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2020,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2021,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2022,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2023,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2024,20,0,True,,
+ISTAT,DCCV_AVQ_PERSONE1,Indicatori Sociodemografici,ISTAT: Indicatori Sociodemografici,2025,19,1,False,Valle d'Aosta,valori mancanti
+ISTAT,DCCV_VIOL_CARAT,Violenza,ISTAT: Violenza,2014,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2010,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_CMORTEM,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_DECESSI,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2010,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+ISTAT,DCIS_IVG_CARATTDON,Salute e Mortalità,ISTAT: Salute e Mortalità,2024,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2010,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+ISTAT,DCIS_IVG_CARATTEV1,Salute e Mortalità,ISTAT: Salute e Mortalità,2024,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2010,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+ISTAT,DCIS_IVG_MIGRAZIONE,Salute e Mortalità,ISTAT: Salute e Mortalità,2024,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1974,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1975,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1976,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1977,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1978,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1979,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1980,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1981,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1982,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1983,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1984,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1985,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1986,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1987,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1988,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1989,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1990,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1991,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1992,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1993,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1994,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1995,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1996,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1997,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1998,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,1999,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2000,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2001,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2002,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2003,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2004,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2005,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2006,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2007,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2008,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2009,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2010,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+ISTAT,DCIS_MORTALITA1,Salute e Mortalità,ISTAT: Salute e Mortalità,2024,20,0,True,,
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ISTAT: Dati Ospedalieri,2000,20,0,True,,
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ISTAT: Dati Ospedalieri,2005,20,0,True,,
+ISTAT,DCIS_RSERVSAN,Dati Ospedalieri,ISTAT: Dati Ospedalieri,2013,20,0,True,,
+ISTAT,DCIS_SCUOLEDIS,Educazione e Disabilità,ISTAT: Educazione e Disabilità,2009,20,0,True,,
+ISTAT,DCIS_SCUOLESORDI,Educazione e Disabilità,ISTAT: Educazione e Disabilità,2009,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2011,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2012,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2013,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2014,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2015,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2016,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2017,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2018,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2019,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2020,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2021,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2022,20,0,True,,
+ISTAT,DCIS_SUICIDI,Salute e Mortalità,ISTAT: Salute e Mortalità,2023,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2010,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2011,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2012,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2013,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2014,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2015,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2016,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2017,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2018,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2019,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2020,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2021,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO1,Personale del SSN,MINIS: Personale del SSN,2022,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2010,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2011,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2012,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2013,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2014,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2015,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2016,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2017,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2018,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2019,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2020,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2021,20,0,True,,
+MINIS,AASL_STAFFDIP_TIPO2,Personale del SSN,MINIS: Personale del SSN,2022,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2010,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2011,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2012,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2013,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2014,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2015,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2016,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2017,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2018,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2019,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2020,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2021,20,0,True,,
+MINIS,AASL_STAFFLEX_TIPO,Personale del SSN,MINIS: Personale del SSN,2022,20,0,True,,
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2010,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2011,17,3,False,"Valle d'Aosta, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2012,17,3,False,"Valle d'Aosta, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2013,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2014,17,3,False,"Valle d'Aosta, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2015,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2016,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2017,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2018,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2019,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2020,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2021,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO1,Personale del SSN,MINIS: Personale del SSN,2022,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2010,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2011,17,3,False,"Valle d'Aosta, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2012,17,3,False,"Valle d'Aosta, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2013,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2014,17,3,False,"Valle d'Aosta, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2015,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2016,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2017,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2018,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2019,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2020,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2021,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,AASL_STAFFUNI_TIPO2,Personale del SSN,MINIS: Personale del SSN,2022,16,4,False,"Valle d'Aosta, Molise, Basilicata, Trentino-Alto Adige",regione assente
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,MINIS: Salute Mentale,2020,19,1,False,Sardegna,regione assente
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,MINIS: Salute Mentale,2021,18,2,False,"Calabria, Sardegna",regione assente
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,MINIS: Salute Mentale,2022,19,1,False,Sardegna,regione assente
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,MINIS: Salute Mentale,2023,17,3,False,"Abruzzo, Molise, Sardegna",regione assente
+MINIS,ACCE_SEMIRESI_EROG,Salute Mentale,MINIS: Salute Mentale,2024,18,2,False,"Abruzzo, Sardegna",regione assente
+MINIS,ANAG_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2020,20,0,True,,
+MINIS,ANAG_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2021,19,1,False,Calabria,regione assente
+MINIS,CASE_ACCREDIT_AASL,Sistema Sanitario Nazionale,MINIS: Sistema Sanitario Nazionale,2022,20,0,True,,
+MINIS,CONT_UTENTRAT_DSM1,Salute Mentale,MINIS: Salute Mentale,2020,20,0,True,,
+MINIS,CONT_UTENTRAT_DSM1,Salute Mentale,MINIS: Salute Mentale,2021,19,1,False,Calabria,regione assente
+MINIS,CONT_UTENTRAT_DSM2,Salute Mentale,MINIS: Salute Mentale,2020,20,0,True,,
+MINIS,CONT_UTENTRAT_DSM2,Salute Mentale,MINIS: Salute Mentale,2021,19,1,False,Calabria,regione assente
+MINIS,CONT_UTENTRAT_DSM3,Salute Mentale,MINIS: Salute Mentale,2022,20,0,True,,
+MINIS,CONT_UTENTRAT_DSM3,Salute Mentale,MINIS: Salute Mentale,2023,19,1,False,Abruzzo,regione assente
+MINIS,CONT_UTENTRAT_DSM3,Salute Mentale,MINIS: Salute Mentale,2024,19,1,False,Abruzzo,regione assente
+MINIS,CONT_UTENTRAT_DSM4,Salute Mentale,MINIS: Salute Mentale,2022,20,0,True,,
+MINIS,CONT_UTENTRAT_DSM4,Salute Mentale,MINIS: Salute Mentale,2023,19,1,False,Abruzzo,regione assente
+MINIS,CONT_UTENTRAT_DSM4,Salute Mentale,MINIS: Salute Mentale,2024,19,1,False,Abruzzo,regione assente
+MINIS,CORR_COMUPOPL_AASL,Sistema Sanitario Nazionale,MINIS: Sistema Sanitario Nazionale,2024,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2012,19,1,False,Sardegna,regione assente
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2013,19,1,False,Sardegna,regione assente
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2014,19,1,False,Sardegna,regione assente
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2015,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2016,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2017,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2018,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2019,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2020,20,0,True,,
+MINIS,COST_DISPMEDI_AASL,Dispositivi Medici,MINIS: Dispositivi Medici,2021,20,0,True,,
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,MINIS: Personale del SSN,2019,11,9,False,"Molise, Campania, Basilicata, Calabria, Sardegna, Friuli-Venezia Giulia, Toscana, Marche, Trentino-Alto Adige",regione assente
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,MINIS: Personale del SSN,2020,11,9,False,"Molise, Campania, Basilicata, Calabria, Sardegna, Friuli-Venezia Giulia, Toscana, Marche, Trentino-Alto Adige",regione assente
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,MINIS: Personale del SSN,2021,11,9,False,"Molise, Campania, Basilicata, Calabria, Sardegna, Friuli-Venezia Giulia, Toscana, Marche, Trentino-Alto Adige",regione assente
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,MINIS: Personale del SSN,2022,10,10,False,"Molise, Campania, Basilicata, Calabria, Sardegna, Friuli-Venezia Giulia, Toscana, Marche, Lazio, Trentino-Alto Adige",regione assente
+MINIS,DDSM_STAFFALL_CONV,Personale del SSN,MINIS: Personale del SSN,2023,10,10,False,"Molise, Campania, Basilicata, Calabria, Sardegna, Friuli-Venezia Giulia, Toscana, Marche, Lazio, Trentino-Alto Adige",regione assente
+MINIS,DDSM_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2019,20,0,True,,
+MINIS,DDSM_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2020,20,0,True,,
+MINIS,DDSM_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2021,20,0,True,,
+MINIS,DDSM_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2022,20,0,True,,
+MINIS,DDSM_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2023,20,0,True,,
+MINIS,DEMO_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2022,20,0,True,,
+MINIS,DEMO_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2023,19,1,False,Abruzzo,regione assente
+MINIS,DEMO_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2024,19,1,False,Abruzzo,regione assente
+MINIS,DIAG_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2020,20,0,True,,
+MINIS,DIAG_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2021,19,1,False,Calabria,regione assente
+MINIS,DIAS_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2022,20,0,True,,
+MINIS,DIAS_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2023,19,1,False,Abruzzo,regione assente
+MINIS,DIAS_UTENTRAT_DDSM,Salute Mentale,MINIS: Salute Mentale,2024,19,1,False,Abruzzo,regione assente
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2010,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2011,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2012,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2013,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2014,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2015,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2016,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2017,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2018,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2019,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2020,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2021,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2022,20,0,True,,
+MINIS,DISP_POSLETTO_REGI,Dati Ospedalieri,MINIS: Dati Ospedalieri,2023,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2010,19,1,False,Lazio,valori mancanti
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2011,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2012,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2013,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2014,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2015,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2016,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2017,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2018,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2019,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2020,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2021,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2022,20,0,True,,
+MINIS,DISP_POSLETTO_STRU,Dati Ospedalieri,MINIS: Dati Ospedalieri,2023,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2010,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2011,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2012,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2013,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2014,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2015,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2016,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2017,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2018,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2019,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2020,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2021,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2022,20,0,True,,
+MINIS,DISP_POSLETTO_TIPO,Dati Ospedalieri,MINIS: Dati Ospedalieri,2023,20,0,True,,
+MINIS,EQUI_STRUTTUR_AASL,Sistema Sanitario Nazionale,MINIS: Sistema Sanitario Nazionale,2022,20,0,True,,
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,MINIS: Salute Mentale,2020,20,0,True,,
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,MINIS: Salute Mentale,2021,19,1,False,Calabria,regione assente
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,MINIS: Salute Mentale,2022,20,0,True,,
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,MINIS: Salute Mentale,2023,19,1,False,Abruzzo,regione assente
+MINIS,PRES_TERRITOR_EROG,Salute Mentale,MINIS: Salute Mentale,2024,19,1,False,Abruzzo,regione assente
+MINIS,REPA_ATTIVITA_PUBB,Dati Ospedalieri,MINIS: Dati Ospedalieri,2022,20,0,True,,
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2019,19,1,False,Molise,regione assente
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2020,20,0,True,,
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2021,20,0,True,,
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2022,20,0,True,,
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2023,20,0,True,,
+MINIS,SERD_STAFFALL_TIPO,Personale del SSN,MINIS: Personale del SSN,2024,20,0,True,,
+MINIS,STRU_ATTIVITA_AASL,Sistema Sanitario Nazionale,MINIS: Sistema Sanitario Nazionale,2022,19,1,False,Sardegna,valori mancanti
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2020,17,3,False,"Calabria, Sardegna, Friuli-Venezia Giulia",regione assente
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2022,18,2,False,"Calabria, Sardegna",regione assente
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2023,18,2,False,"Abruzzo, Sardegna",regione assente
+MINIS,UTEN_AMMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2024,18,2,False,"Abruzzo, Sardegna",regione assente
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2020,17,3,False,"Calabria, Sardegna, Friuli-Venezia Giulia",regione assente
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2021,18,2,False,"Calabria, Sardegna",regione assente
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2022,18,2,False,"Calabria, Sardegna",regione assente
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2023,18,2,False,"Abruzzo, Sardegna",regione assente
+MINIS,UTEN_DIMESSIA_RESI,Salute Mentale,MINIS: Salute Mentale,2024,18,2,False,"Abruzzo, Sardegna",regione assente
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,MINIS: Salute Mentale,2020,20,0,True,,
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,MINIS: Salute Mentale,2021,20,0,True,,
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,MINIS: Salute Mentale,2022,2,18,False,"Piemonte, Valle d'Aosta, Liguria, Lombardia, Abruzzo, Molise, Campania, Puglia, Calabria, Sicilia, Sardegna, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Umbria, Marche, Lazio",valori mancanti
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,MINIS: Salute Mentale,2023,2,18,False,"Piemonte, Valle d'Aosta, Liguria, Lombardia, Abruzzo, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Umbria, Marche, Lazio",valori mancanti
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,MINIS: Salute Mentale,2024,2,18,False,"Piemonte, Valle d'Aosta, Liguria, Lombardia, Abruzzo, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Umbria, Marche, Lazio",valori mancanti
+MINIS,UTEN_INCARICO_SOST,Salute Mentale,MINIS: Salute Mentale,2025,20,0,True,,
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,MINIS: Salute Mentale,2020,8,12,False,"Piemonte, Liguria, Lombardia, Molise, Campania, Puglia, Basilicata, Sicilia, Sardegna, Veneto, Toscana, Lazio",valori mancanti
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,MINIS: Salute Mentale,2021,9,11,False,"Piemonte, Liguria, Lombardia, Campania, Puglia, Basilicata, Sicilia, Sardegna, Veneto, Toscana, Lazio",valori mancanti
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,MINIS: Salute Mentale,2022,10,10,False,"Piemonte, Valle d'Aosta, Liguria, Molise, Campania, Puglia, Sicilia, Sardegna, Friuli-Venezia Giulia, Toscana",valori mancanti
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,MINIS: Salute Mentale,2023,9,11,False,"Piemonte, Liguria, Lombardia, Campania, Puglia, Sicilia, Sardegna, Emilia-Romagna, Toscana, Marche, Lazio",valori mancanti
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,MINIS: Salute Mentale,2024,8,12,False,"Piemonte, Valle d'Aosta, Liguria, Lombardia, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna, Veneto, Emilia-Romagna",valori mancanti
+MINIS,UTEN_INCARICO_TRAT,Salute Mentale,MINIS: Salute Mentale,2025,6,14,False,"Piemonte, Valle d'Aosta, Liguria, Lombardia, Abruzzo, Campania, Puglia, Calabria, Sicilia, Sardegna, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Lazio",valori mancanti

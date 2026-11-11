@@ -1,0 +1,8 @@
+voce,valore
+esperimento,"b5 - scalabilita' della lettura dei CSV con e senza Dask (tasks_MPP n.7), volumi crescenti dello stesso file"
+modi,"python = pandas motore Python (pipeline < 300 MB); c = pandas motore C (non usato dalla pipeline); dask_sync = Dask a un thread; dask = Dask a thread (pipeline > 300 MB). Stessa ExcelParser.parse_file della pipeline, cambia solo read_on_parallel"
+lettura_a_vuoto,lettura dei soli byte del file: limite inferiore dovuto al disco
+pulizia,input_cleaner e passo 3 di data_miner sulla tabella letta come in produzione (una volta per volume)
+protocollo,"ogni misura in un processo separato, timeout 3600 s; modi in ordine ruotato tra le ripetizioni"
+speedup,speedup_X_vs_Y = mediana di Y / mediana di X (>1: X piu' veloce)
+nota,tempi validi solo se misurati a PC libero; volume_mb_reale in MiB

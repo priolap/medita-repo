@@ -1,0 +1,33 @@
+{
+  "_nota": "Unico punto dei parametri del task C. Setup del paper: collezione -2, MiniLM, 512/64 caratteri, top-4.",
+  "rag_root": "RAG",
+  "collection_dir": "{rag_root}/db/paraphrase-multilingual-MiniLM-L12-v2/medita-news-chunk512-over64-2",
+  "collection_dir_work": "hank_c_work/medita-news-chunk512-over64-2",
+  "distance": "l2 (default Chroma)",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_size_chars": 512,
+  "chunk_overlap_chars": 64,
+  "k_main": 4,
+  "k_max": 8,
+  "context_separator": "\n\n",
+  "paper_results_dir": "{rag_root}/output/paraphrase-multilingual-MiniLM-L12-v2/medita-news-chunk512-over64/k=1 - Copia Paper",
+  "paper_reference_json": "results_pro_gemma2.json",
+  "qa_list": "{rag_root}/qa_list_setup_final.xlsx",
+  "prompt_template": "### [INST]\nSei un chatbot che ama aiutare le persone! Data la seguente sezione di contesto, rispondi alla domanda usando \nsolo il contesto fornito. Se la risposta non è esplicitamente scritta nella documentazione, \nrispondi scrivendo all'utente soltanto le seguenti parole: \n\"Mi dispiace, non so aiutarti sulla base delle informazioni che ho\".\n\nSezioni di contesto: {context}\n\nDomanda: {question} [/INST]\n\nRisposta:\n",
+  "abstention_text": "Mi dispiace, non so aiutarti sulla base delle informazioni che ho",
+  "generators": {
+    "gemma2": "google/gemma-2-9b-it",
+    "llama3": "DeepMount00/Llama-3-8b-Ita"
+  },
+  "quantization": {
+    "load_in_4bit": true,
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "bnb_4bit_compute_dtype": "float16"
+  },
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 250
+  },
+  "seed": 100
+}

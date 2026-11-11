@@ -1,0 +1,18 @@
+# Extra packages to RE-RUN the experiments in pipeline/experiments/ (not needed by paper/make_all.py,
+# which rebuilds tables and figures from results/ with requirements.txt only).
+# Versions used for the paper, where recorded in the outputs of the experiments.
+psutil                          # A, B_scalabilita: machine state during timing runs
+rapidfuzz==3.14.6               # B_baseline (Jaro-Winkler, token-set ratio)
+scikit-learn==1.9.1             # B_baseline (AUC, AP, cross-validation); C (c1 level agreement)
+sentence-transformers==6.2.0    # B_baseline (embedding matcher), C (retrieval)
+torch                           # B_baseline (CPU build 2.15.0 used), C (generation on Kaggle GPU)
+valentine                       # B_baseline (COMA, Cupid, Similarity Flooding)
+nltk                            # B_baseline (WordNet, OMW), C (METEOR)
+# C_hank_eval only (retrieval and generation run on Kaggle, see pipeline/experiments/C_hank_eval/README.md)
+chromadb==0.5.5
+transformers
+bitsandbytes                    # C (4-bit NF4 generation, installed on Kaggle with accelerate)
+accelerate
+bert-score
+openai                          # c1_judge.py (level agreement with GPT-4); key in OPENAI_API_KEY
+kaggle                          # Kaggle CLI

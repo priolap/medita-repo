@@ -1,0 +1,11 @@
+{
+  "title": "MEDITA: a Multimodal hEalth Data lakehouse for ITAly",
+  "upload_type": "software",
+  "description": "Code, configuration and experiment scripts of the MEDITA platform: ETL pipeline for Italian public-health open data (Ministero della Salute, AIFA, ISTAT), storage benchmark, schema-matching evaluation, HANK retrieval-augmented chatbot evaluation and the end-to-end statistical use case. The script paper/make_all.py regenerates all experimental tables and figures. The health-news corpus used by HANK is protected by copyright and is not distributed: only per-question scores are included.",
+  "creators": [
+    {"name": "Priola, Maria Paola", "affiliation": "University of Cagliari", "orcid": "0009-0002-4076-0103"}
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["data lakehouse", "public health", "open data", "ETL", "schema matching", "RAG"]
+}

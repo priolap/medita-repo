@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# backups and patch leftovers
+*.bak
+*.bak_*
+
+# data never committed (snapshot on Zenodo; raw inputs re-downloadable)
+# REPO_261031: "data/" also matched results/data/, which IS committed
+/data/
+pipeline/data/
+pipeline/logs/
+pipeline/dashboard/db/
+# REPO_261111: the lakehouse written by the Load is data
+pipeline/lake/
+/lake/
+pipeline/config/missing_numeric_attributes_*.json
+*.pkl
+*.db
+*.sql
+*.parquet
+
+# REPO_EXP_261111: outputs of the experiments (the values used by the paper are in results/experiments/);
+# the gold standard of B is an input of b4_stats.py and b6_baseline.py and is committed
+pipeline/experiments/*/out/*
+!pipeline/experiments/B_fuzzy_eval/out/fuzzy_annotato_2026.xlsx
+pipeline/experiments/A_storage_benchmark/results/
+pipeline/experiments/C_hank_eval/annotation/
+pipeline/experiments/C_hank_eval/kaggle/inputs/
+lake_misura_*/
+_cestinare/
+
+# secrets
+client_secrets*.json
+config.yaml
+.env
+*.msg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

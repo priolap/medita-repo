@@ -1,0 +1,6 @@
+Region,AIFA code,AIFA name,MINIS code,MINIS name,ISTAT code,ISTAT name,MEDITA NUTS,R0,R1,H
+Lombardia,030,LOMBARDI,030,LOMBARDIA,ITC4,Lombardia,ITC4,$\times$,$\times$,$\checkmark$
+Valle d'Aosta,020,VALLE D',020,VALLE D`AOSTA,ITC2,Valle d'Aosta,ITC2,$\times$,$\times$,$\checkmark$
+P.A. Bolzano,041,PA BOLZA,041,PROV. AUTON. BOLZANO,ITD1,Provincia Autonoma Bolzano,ITH1,$\times$,$\times$,$\checkmark$
+Trentino-Alto Adige,--,--,--,--,ITDA,Trentino Alto Adige,ITH0,$\times$,$\times$,$\checkmark$
+Lazio,120,LAZIO,120,LAZIO,ITE4,Lazio,ITI4,$\times$,$\checkmark$,$\checkmark$

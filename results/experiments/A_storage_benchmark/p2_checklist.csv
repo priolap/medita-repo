@@ -1,0 +1,41 @@
+area,feature,configurazione,stato,evidenza,dettaglio
+Storage,Formato dei dati aperto,SQLite (MEDITA attuale),Parziale,documentata,file SQLite documentato ma leggibile solo tramite libreria SQLite
+Storage,Formato dei dati aperto,DuckDB,Parziale,documentata,"file .duckdb nativo, leggibile solo da DuckDB"
+Storage,Formato dei dati aperto,Parquet + DuckDB,Si',documentata,"Apache Parquet, leggibile da qualunque motore (pandas, Spark, Arrow, DuckDB)"
+Storage,Formato dei dati aperto,Delta Lake + DuckDB,Si',documentata,Parquet + transaction log JSON aperto (protocollo Delta)
+Storage,Storage colonnare e compressione,SQLite (MEDITA attuale),No,misurata,"7.06 GB (1.04x il testo), ingestion 2.4 min"
+Storage,Storage colonnare e compressione,DuckDB,Si',misurata,"0.66 GB (0.10x il testo), ingestion 1.0 min"
+Storage,Storage colonnare e compressione,Parquet + DuckDB,Si',misurata,"0.23 GB (0.03x il testo), ingestion 0.6 min"
+Storage,Storage colonnare e compressione,Delta Lake + DuckDB,Si',misurata,"0.31 GB (0.05x il testo), ingestion 0.8 min"
+Storage,Transazioni ACID,SQLite (MEDITA attuale),Si',documentata,"transazioni su file singolo, un solo scrittore alla volta"
+Storage,Transazioni ACID,DuckDB,Si',documentata,transazioni su file singolo
+Storage,Transazioni ACID,Parquet + DuckDB,No,documentata,"file indipendenti, nessun log: scritture parziali possibili"
+Storage,Transazioni ACID,Delta Lake + DuckDB,Si',misurata,"9/9 run riusciti, mediana 205 ms"
+Storage,Schema enforcement,SQLite (MEDITA attuale),Parziale,documentata,type affinity: una colonna INTEGER accetta anche testo
+Storage,Schema enforcement,DuckDB,Si',documentata,tipi rigidi sulle tabelle
+Storage,Schema enforcement,Parquet + DuckDB,Parziale,documentata,"schema per singolo file, nessun controllo tra file della stessa tabella"
+Storage,Schema enforcement,Delta Lake + DuckDB,Si',misurata,"9/9 run riusciti, mediana 55 ms"
+Storage,Schema evolution,SQLite (MEDITA attuale),Parziale,documentata,"ALTER TABLE ADD COLUMN, senza storico"
+Storage,Schema evolution,DuckDB,Parziale,documentata,"ALTER TABLE, senza storico"
+Storage,Schema evolution,Parquet + DuckDB,Parziale,documentata,"solo in lettura (union_by_name), nessuna gestione delle versioni di schema"
+Storage,Schema evolution,Delta Lake + DuckDB,Si',misurata,"9/9 run riusciti, mediana 29 ms"
+Storage,Time travel (lettura di versioni precedenti),SQLite (MEDITA attuale),No,documentata,solo copie manuali del file
+Storage,Time travel (lettura di versioni precedenti),DuckDB,No,documentata,solo copie manuali del file
+Storage,Time travel (lettura di versioni precedenti),Parquet + DuckDB,No,documentata,solo cartelle-snapshot manuali
+Storage,Time travel (lettura di versioni precedenti),Delta Lake + DuckDB,Si',misurata,"9/9 run riusciti, mediana 6 ms"
+Storage,Rollback a una versione precedente,SQLite (MEDITA attuale),No,documentata,ripristino da backup
+Storage,Rollback a una versione precedente,DuckDB,No,documentata,ripristino da backup
+Storage,Rollback a una versione precedente,Parquet + DuckDB,No,documentata,ripristino da backup
+Storage,Rollback a una versione precedente,Delta Lake + DuckDB,Si',misurata,"9/9 run riusciti, mediana 19 ms"
+Storage,Separazione storage / compute,SQLite (MEDITA attuale),No,documentata,dati dentro il file del motore
+Storage,Separazione storage / compute,DuckDB,No,documentata,dati dentro il file del motore
+Storage,Separazione storage / compute,Parquet + DuckDB,Si',misurata,file Parquet interrogati da DuckDB in memoria
+Storage,Separazione storage / compute,Delta Lake + DuckDB,Si',misurata,tabelle Delta interrogate da DuckDB (lettore: delta_scan)
+Storage,Analisi e ML sugli stessi dati senza copie,SQLite (MEDITA attuale),Parziale,misurata,via SQL o pandas; la piattaforma oggi carica tabelle intere in pandas (Q1)
+Storage,Analisi e ML sugli stessi dati senza copie,DuckDB,Si',misurata,SQL analitico + export Arrow/pandas
+Storage,Analisi e ML sugli stessi dati senza copie,Parquet + DuckDB,Si',misurata,SQL analitico + lettura diretta da pandas/Arrow/Spark
+Storage,Analisi e ML sugli stessi dati senza copie,Delta Lake + DuckDB,Si',misurata,SQL analitico + lettura diretta da pandas/Arrow/Spark
+Piattaforma MEDITA,Catalogo dei metadati,pipeline attuale,Parziale,documentata,catalogo info_<FONTE> per fonte; nessuna tabella duplicata rilevata
+Piattaforma MEDITA,Versioning dei dati grezzi,pipeline attuale,Parziale,documentata,"snapshot datati delle sorgenti (cartelle AAAAMMGG), gestiti a mano"
+Piattaforma MEDITA,Dati non strutturati nello stesso sistema,pipeline attuale,Si',documentata,corpus di news (pickle) e vector store Chroma accanto alle tabelle
+Piattaforma MEDITA,Lineage sorgente -> tabella,pipeline attuale,Parziale,documentata,"ricostruibile dal catalogo e dai log, non tracciato automaticamente"

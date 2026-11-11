@@ -1,0 +1,1689 @@
+[
+    {
+        "name_out": "SPESA_CONVENZIONATA",
+        "name_in": "SPESA_CONVENZIONATA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_CONFEZIONI_CONVENZIONATA",
+        "name_in": "NUMERO_CONFEZIONI_CONVENZIONATA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "SPESA_FLUSSO_TRACCIABILITA",
+        "name_in": "SPESA_FLUSSO_TRACCIABILITA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_CONFEZIONI_TRACCIA",
+        "name_in": "NUMERO_CONFEZIONI_TRACCIA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ANNO",
+        "name_in": "TIME_PERIOD|ANNO_DI_RIFERIMENTO",
+        "is_obs": false,
+        "dtype": "int",
+        "conversion": null
+    },
+    {
+        "name_out": "ACUTI_REGIME_DIURNO_DIMISSIONI",
+        "name_in": "ACUTI_REGIME_DIURNO_DIMISSIONI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ACUTI_REGIME_ORDINARIO_DIMISSIONI",
+        "name_in": "ACUTI_REGIME_ORDINARIO_DIMISSIONI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ALTRO_RAPPORTO",
+        "name_in": "ALTRO_RAPPORTO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ALTRO_RAPPORTO_D",
+        "name_in": "ALTRO_RAPPORTO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ALTRO_RAPPORTO_U",
+        "name_in": "ALTRO_RAPPORTO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ASSISTENZA_DOMICILIARE_INTEGRATA_CASI_TRATTATI",
+        "name_in": "ASSISTENZA_DOMICILIARE_INTEGRATA_CASI_TRATTATI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ASSISTENZA_DOMICILIARE_INTEGRATA_CASI_TRATTATI_ANZIANI",
+        "name_in": "ASSISTENZA_DOMICILIARE_INTEGRATA_CASI_TRATTATI_ANZIANI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CERTIFICAZIONE_MERCI",
+        "name_in": "MERCI CERTIFICATE COME",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_AUTORIZZAZIONE_ALLIMMISSIONE_IN_COMMERCIO_AIC",
+        "name_in": "CODICE_AUTORIZZAZIONE_ALLIMMISSIONE_IN_COMMERCIO_AIC",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_ASL",
+        "name_in": "CODICE_AZIENDA_SANITARIA_ASL|CODICE_AZIENDA|CODASL|CODASL|CODICE_AZIENDA_SANITARIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_CND",
+        "name_in": "CLASSIFICAZIONE_CND|COD_CLASSIFICAZIONE_CND|CODICE_CND",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_COMUNE",
+        "name_in": "COD_COMUNE|CODICE_COMUNE|CODICECOMUNEISTAT",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_DSM",
+        "name_in": "COD_DSM|CODICE_DSM",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_FARMACO",
+        "name_in": "CODICE_FARMACO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_FISCALE",
+        "name_in": "COD_FISCALE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_FORMULA",
+        "name_in": "CODICE_FORMULA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_ID_SITO",
+        "name_in": "CODICEIDENTIFICATIVOSITO|COD_IDENTIFICATIVO_SITO|CODICE_IDENTIFICATIVO_SITO|CODICE_IDENTIFICATIVO_UNIVOCO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_ID_SITO_LOGISTICO",
+        "name_in": "CODICE_UNIVOCO_SITO_LOGISTICO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_IDENTIFICATIVO",
+        "name_in": "CODICE_IDENTIFICATIVO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_ID_FARMACIA",
+        "name_in": "CODICEIDENTIFICATIVOFARMACIA|CODICE_IDENTIFICATIVO_FARMACIA|COD_FARMACIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_MACRONATURA",
+        "name_in": "CODICE MACRONATURA|CODICE_MACRONATURA|MACRO_CODICE_TARIC",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_MERCE",
+        "name_in": "CODICE MERCEOLOGICO|CODICE MERCE|CODICE_MERCE|CODICE_TARIC",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_PROVINCIA",
+        "name_in": "CODICEPROVINCIAISTAT|COD_PROVINCIA|CODICE_PROVINCIA_ISTAT|COD_PROVINCIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_REGIONE",
+        "name_in": "COD_REGIONE|CODREGCOMMIT|CODICE_REGIONE|ITTER107|TERR_RES|REF_AREA|CODREG|RESIDENCE_TERR",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "CODICE_TIPOLOGIA",
+        "name_in": "CODICE_TIPOLOGIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "COMUNE",
+        "name_in": "DESCRIZIONECOMUNE|COMUNE|DENOMINAZIONE_COMUNE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "COSTO_ACQ",
+        "name_in": "SPESA|SPESA_SOSTENUTA_PER_LACQUISTO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "DATA_ARRIVO",
+        "name_in": "DATA ARRIVO|DATA_ARRIVO|DATA_PREV_ARRIVO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DATA_DECISIONE",
+        "name_in": "DATA DELLA DECISIONE|II21_DECISIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DATA_FINE_COMMERCIALIZZAZIONE",
+        "name_in": "DATAFINE_COMMERCIO|DATA_FINE_COMMERCIALIZZAZIONE|DATA_FINE_COMMERCIO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DATA_FINE_VALIDITA",
+        "name_in": "FINE_VALIDITA|DATA_FINE_VALIDITA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DATA_INIZIO_VALIDITA",
+        "name_in": "INIZIO_VALIDITA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DEGENZA_MEDIA_ORDINARIA",
+        "name_in": "DEGENZA_MEDIA_ORDINARIA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "mean"
+    },
+    {
+        "name_out": "DENOMINAZIONE_AZIENDA",
+        "name_in": "ASL|AZIENDA_SANITARIA_ASL|AZIENDASANITARIA|DENOMINAZIONE|DENOMINAZIONE_AZIENDA|UVL",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_AZIENDA_SANITARIA",
+        "name_in": "CODTIPODM|DENOMINAZIONE_AZIENDA_SANITARIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_DELLA_CONFEZIONE",
+        "name_in": "DENOMINAZIONE DELLA CONFEZIONE|DENOMINAZIONE_DELLA_CONFEZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_SITO",
+        "name_in": "DENOMINAZIONE_SITO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_SITO_LOGISTICO",
+        "name_in": "DENOMINAZIONE_SITO_LOGISTICO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_STRUTTURA",
+        "name_in": "DENOMINAZIONE_STRUTTURASTABILIMENTO|STRUTTURA|DENOMINAZIONE_STRUTTURA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_URBANISTICA_GENERICA",
+        "name_in": "DENOMINAZIONE_URBANISTICA_GENERICA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DENOMINAZIONE_URBANISTICA_UFFICIALE",
+        "name_in": "DENOMINAZIONE_URBANISTICA_UFFICIALE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_MACRONATURA",
+        "name_in": "DESCRIZIONE MACRONATURA|DESCRIZIONE_MACRONATURA|MACRO_VOCE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_MERCE",
+        "name_in": "DESCRIZIONE MERCE|DESCRIZIONE_MERCE|VOCE_MERCEOLOGICA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_ATC",
+        "name_in": "DESCRIZIONE_ATC",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_DISTRIBUTORE",
+        "name_in": "DESCRIZIONE_DISTRIBUTORE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_FARMACIA",
+        "name_in": "DESCRIZIONE_FARMACIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_SOSTANZA",
+        "name_in": "DESCRIZIONE_SOSTANZA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESCRIZIONE_TIPOLOGIA",
+        "name_in": "DESCRIZIONE_TIPOLOGIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DESTINAZIONE",
+        "name_in": "LUOGO DI DESTINAZIONE|I7_LUOGO_DI_DESTINAZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "STRUTTURA_DI_DESTINAZIONE",
+        "name_in": "STRUTTURA_DI_DESTINAZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "LUOGO_DI_DESTINAZIONE_INDIRIZZO",
+        "name_in": "LUOGO DI DESTINAZIONE INDIRIZZO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "LUOGO_DI_DESTINAZIONE_PAESE",
+        "name_in": "LUOGO DI DESTINAZIONE PAESE|PAESE DI DESTINAZIONE|LUOGO_DI_DESTINAZIONE_PAESE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DOTAZIONI_ORGANICHE",
+        "name_in": "DOTAZIONI_ORGANICHE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "FARMACI_UMANI_DABANCO",
+        "name_in": "FARMACI_UMANI_DABANCO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_UMANI_DEPOSITO",
+        "name_in": "FARMACI_UMANI_DEPOSITO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_UMANI_GROSSISTA",
+        "name_in": "FARMACI_UMANI_GROSSISTA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_UMANI_PRODUZIONE",
+        "name_in": "FARMACI_UMANI_PRODUZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_VETERINARI_DEPOSITO",
+        "name_in": "FARMACI_VETERINARI_DEPOSITO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_VETERINARI_GROSSISTA",
+        "name_in": "FARMACI_VETERINARI_GROSSISTA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_VETERINARI_PRODUZIONE",
+        "name_in": "FARMACI_VETERINARI_PRODUZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_VETERINARI_VENDITADIR",
+        "name_in": "FARMACI_VETERINARI_VENDITADIR",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_UMANI_SENZAOBBLIGOPRESCR",
+        "name_in": "FARMAUMASENZAOBBLIGOPRESCR",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_VETERINARI_CONOBBLIGOPRESCR",
+        "name_in": "FARMAVETCONOBBLIGOPRESCR",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FARMACI_VETERINARI_SENZAOBBLIGOPRESCR",
+        "name_in": "FARMAVETISENZAOBBLIGOPRESCR",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FASCIA_PTN",
+        "name_in": "FASCIA PTN|FASCIA_PTN",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FEMMINE",
+        "name_in": "FEMMINE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "FORMA_FARMACEUTICA",
+        "name_in": "FORMA_FARMACEUTICA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "FORMAZIONE_LAVORO_D",
+        "name_in": "FORMAZIONE_LAVORO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "FORMAZIONE_LAVORO_U",
+        "name_in": "FORMAZIONE_LAVORO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "GIORNATE_DEGENZA",
+        "name_in": "GIORNATE_DEGENZA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "GIORNATE_DISPONIBILI",
+        "name_in": "GIORNATE_DISPONIBILI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "GRUPPO_MERCEOLOGICO",
+        "name_in": "GRUPPO MERCEOLOGICO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "ICM",
+        "name_in": "ICM",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "IMPORTO",
+        "name_in": "IMPORTO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "INDICAZIONE_TERAPEUTICA",
+        "name_in": "INDICAZIONE_TERAPEUTICA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "INTERINALE_D",
+        "name_in": "INTERINALE_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "INTERINALE_U",
+        "name_in": "INTERINALE_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "LSU_D",
+        "name_in": "LSU_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "LSU_U",
+        "name_in": "LSU_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "LUNGODEGENZA_DIMISSIONI",
+        "name_in": "LUNGODEGENZA_DIMISSIONI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "LUOGO_DI_DESTINAZIONE_CITTA",
+        "name_in": "LUOGO DI DESTINAZIONE CITT\u00c3\u00a0",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "MASCHI",
+        "name_in": "MASCHI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "MEDICI",
+        "name_in": "MEDICI|TOTALE_MEDICI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_MEDIO_MEDICI_TITOLARI",
+        "name_in": "NUMERO_MEDIO_MEDICI_TITOLARI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "mean"
+    },
+    {
+        "name_out": "NUMERO_MEDIO_PUNTI_DI_GUARDIA_MEDICA",
+        "name_in": "NUMERO_MEDIO_PUNTI_DI_GUARDIA_MEDICA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "mean"
+    },
+    {
+        "name_out": "MEDICI_D",
+        "name_in": "MEDICI_DONNE|MEDICI_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "MEDICI_U",
+        "name_in": "MEDICI_UOMINI|MEDICI_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "MESE_ARRIVO",
+        "name_in": "MESE ARRIVO|MESE_ARRIVO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "MODALITA_PRESCRIZIONE",
+        "name_in": "MODALITA_PRESCRIZIONE|MODALIT\u00c3\u00a0 PRESCRIZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "NDEG_REPARTI",
+        "name_in": "NDEG_REPARTI",
+        "is_obs": false,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_PART_TIME_FINO_50",
+        "name_in": "NUM_DIP_PART_TIME_FINO_50",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_PART_TIME_FINO_50_D",
+        "name_in": "NUM_DIP_PART_TIME_FINO_50_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_PART_TIME_FINO_50_U",
+        "name_in": "NUM_DIP_PART_TIME_FINO_50_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_PART_TIME_OLTRE_50",
+        "name_in": "NUM_DIP_PART_TIME_OLTRE_50",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_PART_TIME_OLTRE_50_D",
+        "name_in": "NUM_DIP_PART_TIME_OLTRE_50_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_PART_TIME_OLTRE_50_U",
+        "name_in": "NUM_DIP_PART_TIME_OLTRE_50_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_TEMPO_PIENO",
+        "name_in": "NUM_DIP_TEMPO_PIENO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_TEMPO_PIENO_D",
+        "name_in": "NUM_DIP_TEMPO_PIENO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIP_TEMPO_PIENO_U",
+        "name_in": "NUM_DIP_TEMPO_PIENO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_REPERTORIO",
+        "name_in": "NUMREP",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "NUMERO_ACCESSI",
+        "name_in": "NUMERO_ACCESSI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_CONVENZIONATI",
+        "name_in": "NUMERO_CONVENZIONATI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_CONVENZIONATI_D",
+        "name_in": "NUMERO_CONVENZIONATI_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_CONVENZIONATI_U",
+        "name_in": "NUMERO_CONVENZIONATI_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_DI_ACCESSI_SEMIRESIDENZIALE_DSM",
+        "name_in": "NUMERO_DI_ACCESSI_SEMIRESIDENZIALE_DSM",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_DI_PRESTAZIONI_EROGATE_DSM",
+        "name_in": "NUMERO_DI_PRESTAZIONI_EROGATE__DSM",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM",
+        "name_in": "NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_DIPENDENTI",
+        "name_in": "NUMERO_DIPENDENTI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_DIPENDENTI_D",
+        "name_in": "NUMERO_DIPENDENTI_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_DIPENDENTI_U",
+        "name_in": "NUMERO_DIPENDENTI_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_REGISTRAZIONE",
+        "name_in": "NUMERO_REGISTRAZIONE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_UTENTI_AMMESSI",
+        "name_in": "NUMERO_UTENTI_AMMESSI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_UTENTI_DIMESSI",
+        "name_in": "NUMERO_UTENTI_DIMESSI|NUM_DIMESSI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMEROSITA",
+        "name_in": "NUMEROSITA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_UNITA_POSOLOGICHE",
+        "name_in": "NUMEROUNITAPOSOLOGICHE|NUM_UNITA_POSOLOGICHE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUOVI_UTENTI",
+        "name_in": "NUOVI_UTENTI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUOVI_UTENTI_NELLANNO",
+        "name_in": "NUOVI_UTENTI_NELLANNO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NAZIONE",
+        "name_in": "PAESE_UE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "OBS_VALUE",
+        "name_in": "OBS_VALUE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ORE_TOTALI_GUARDIA_MEDICA",
+        "name_in": "ORE_TOTALI_GUARDIA_MEDICA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PAESE_DI_ORIGINE",
+        "name_in": "PAESE DI ORIGINE|I11_PAESE_DI_ORIGINE|PAESE_DI_ORIGINE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "PARTITA_IVA",
+        "name_in": "PARTITA_IVA_VATNUMBER|PARTITA_IVA|PARTITA_IVA_SOGG_GIURIDICO|P_IVA|PARTITAIVA_VATNUMBER_MAND|P_IVA_SOGG_GIURIDICO|PARTITA_IVA_VAT",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "PARTTIME_FINO_AL_50_D",
+        "name_in": "PARTTIME_FINO_AL_50_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PARTTIME_FINO_AL_50_U",
+        "name_in": "PARTTIME_FINO_AL_50_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PARTTIME_OLTRE_IL_50_D",
+        "name_in": "PARTTIME_OLTRE_IL_50_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PARTTIME_OLTRE_IL_50_U",
+        "name_in": "PARTTIME_OLTRE_IL_50_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERS_ANNO_RIF_D",
+        "name_in": "PERS_ANNO_RIF_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERS_ANNO_RIF_U",
+        "name_in": "PERS_ANNO_RIF_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_AL_3112",
+        "name_in": "PERSONALE_AL_3112",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_D",
+        "name_in": "PERSONALE_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_DIPENDENTE",
+        "name_in": "PERSONALE_DIPENDENTE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_DIPENDENTE_D",
+        "name_in": "PERSONALE_DIPENDENTE_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_DIPENDENTE_U",
+        "name_in": "PERSONALE_DIPENDENTE_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_INFERMIERISTICO",
+        "name_in": "INFERMIERI|PERSONALE_INFERMIERISTICO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_INFERMIERISTICO_D",
+        "name_in": "INFERMIERI_DONNE|PERSONALE_INFERMIERISTICO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_INFERMIERISTICO_U",
+        "name_in": "INFERMIERI_UOMINI|PERSONALE_INFERMIERISTICO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PERSONALE_MEDICO_E_INFERMIERISTICO",
+        "name_in": "PERSONALE_MEDICO_E_INFERMIERISTICO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "PERSONALE_U",
+        "name_in": "PERSONALE_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PESO_NETTO_KG",
+        "name_in": "PESO NETTO (KG)|PESO_NETTO_KG",
+        "is_obs": false,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "POSTI_LETTO_DAY_HOSPITAL",
+        "name_in": "POSTI_LETTO_DAY_HOSPITAL",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "POSTI_LETTO_DAY_SURGERY",
+        "name_in": "POSTI_LETTO_DAY_SURGERY",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "POSTI_LETTO_DEGENZA_A_PAGAMENTO",
+        "name_in": "POSTI_LETTO_DEGENZA_A_PAGAMENTO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "POSTI_LETTO_DEGENZA_ORDINARIA",
+        "name_in": "POSTI_LETTO_DEGENZA_ORDINARIA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "POSTI_LETTO_PREVISTI",
+        "name_in": "POSTI_LETTO_PREVISTI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "POSTI_LETTO_UTILIZZATI",
+        "name_in": "POSTI_LETTO_UTILIZZATI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PRIMO_DESTINATARIO_MATERIALE",
+        "name_in": "PRIMO_DESTINATARIO_MATERIALE|PRIMO DESTINATARIO MATERIALE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "PRINCIPIO_ATTIVO",
+        "name_in": "PRINCIPIO_ATTIVO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "PRODOTTI",
+        "name_in": "PRODOTTI|PRODOTTI|PRODOTTI GRUPPO|I31_PRODOTTI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PROVINCIA",
+        "name_in": "DESCRIZIONEPROVINCIA|PROVINCIA|DENOMINAZIONE_PROVINCIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "QUANTITA",
+        "name_in": "QUANTIT\u00c3\u00a0|QUANTITA|QTA|QT",
+        "is_obs": false,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "QUANTITA_CONFEZIONI_FORNITE_ALLE_FARMACIE_ED_AGLI_ESERCIZI_COMMERCIALI",
+        "name_in": "QUANTITA_CONFEZIONI_FORNITE_ALLE_FARMACIE_ED_AGLI_ESERCIZI_COMMERCIALI|QUANTIT\u00c3\u00a0 CONFEZIONI FORNITE ALLE FARMACIE ED AGLI ESERCIZI COMMERCIALI",
+        "is_obs": true,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "QUANTITA_PRINCIPIOATTIVO",
+        "name_in": "QUANTITA_PRINCIPIOATTIVO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "RAGIONE_SOCIALE",
+        "name_in": "RAGIONE_SOCIALE|RAGIONE_SOCIALE_SOGG_GIURIDICO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "REGIONE",
+        "name_in": "REGIONE|DECRIZIONE_REGIONE|DENOMINAZIONE_REGIONE|DESCRIZIONE_REGIONE|DESCRIZIONEREGIONE|REGIONECOMMIT|ITTER107_DESC|TERR_RES_DESC|REF_AREA_DESC|RESIDENCE_TERR_DESC",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "REPE_D",
+        "name_in": "REPE_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "REPE_U",
+        "name_in": "REPE_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "RIABILITAZIONE_REGIME_DIURNO_DIMISSIONI",
+        "name_in": "RIABILITAZIONE_REGIME_DIURNO_DIMISSIONI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "RIABILITAZIONE_REGIME_ORDINARIO_DIMISSIONI",
+        "name_in": "RIABILITAZIONE_REGIME_ORDINARIO_DIMISSIONI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "RICOVERI",
+        "name_in": "RICOVERI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "SIGLA_PROVINCIA",
+        "name_in": "SIGLA_PROVINCIA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "TASSO_UTILIZZO",
+        "name_in": "TASSO_UTILIZZO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "mean"
+    },
+    {
+        "name_out": "TELELAVOROSMART_WORKING_D",
+        "name_in": "TELELAVOROSMART_WORKING_D|TELELAVORO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TELELAVOROSMART_WORKING_U",
+        "name_in": "TELELAVOROSMART_WORKING_U|TELELAVORO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_DETERMINATO_D",
+        "name_in": "TEMPO_DETERMINATO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_DETERMINATO_PARZIALE_D",
+        "name_in": "TEMPO_DETERMINATO_PARZIALE_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_DETERMINATO_PARZIALE_U",
+        "name_in": "TEMPO_DETERMINATO_PARZIALE_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_DETERMINATO_PIENO_D",
+        "name_in": "TEMPO_DETERMINATO_PIENO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_DETERMINATO_PIENO_U",
+        "name_in": "TEMPO_DETERMINATO_PIENO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_DETERMINATO_U",
+        "name_in": "TEMPO_DETERMINATO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_INDETERMINATO_PARZIALE_D",
+        "name_in": "TEMPO_INDETERMINATO_PARZIALE_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_INDETERMINATO_PARZIALE_U",
+        "name_in": "TEMPO_INDETERMINATO_PARZIALE_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_INDETERMINATO_PIENO_D",
+        "name_in": "TEMPO_INDETERMINATO_PIENO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_INDETERMINATO_PIENO_U",
+        "name_in": "TEMPO_INDETERMINATO_PIENO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_PIENO_D",
+        "name_in": "TEMPO_PIENO_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TEMPO_PIENO_U",
+        "name_in": "TEMPO_PIENO_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TIPO_DIFORMULA",
+        "name_in": "TIPO_DIFORMULA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "TIPOLOGIA_SITO",
+        "name_in": "TIPOLOGIA_DI_SITO|TIPOSITO|TIPO_SITO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "DATA_DECISIONE",
+        "name_in": "DATA_DELLA_DECISIONE|DATA_DELLE_DECISIONI|DATA_DECISIONE|DATA_DELLA_DECISIONI",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "TIPOLOGIA_DISTRIBUTORE",
+        "name_in": "TIPOLOGIA_DISTRIBUTORE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "TOTALE",
+        "name_in": "TOTALE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_PERSONALE",
+        "name_in": "TOTALE_PERSONALE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_PERSONALE_D",
+        "name_in": "TOTALE_PERSONALE_D|PERSONALE_DONNE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_PERSONALE_U",
+        "name_in": "TOTALE_PERSONALE_U|PERSONALE_UOMINI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_POSTI_LETTO",
+        "name_in": "TOTALE_POSTI_LETTO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TURN_D",
+        "name_in": "TURN_D",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TURN_U",
+        "name_in": "TURN_U",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "DATA_ULTIMO_AGGIORNAMENTO",
+        "name_in": "ULTIMOAGGIORNAMENTO|DATA_ULTIMO_AGGIORNAMENTO",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "UNITA_DI_MISURA",
+        "name_in": "UNITA__DI_MISURA|UNITA_DI_MISURA|UM",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "UNITADIMISURA_QUANTITA",
+        "name_in": "UNITADIMISURA_QUANTITA",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "UNITADIMISURA_VOLUMEFINALE",
+        "name_in": "UNITADIMISURA_VOLUMEFINALE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "UNITAMISURA_CONCENTRAZIONE",
+        "name_in": "UNITAMISURA_CONCENTRAZIONE",
+        "is_obs": false,
+        "dtype": "text",
+        "conversion": null
+    },
+    {
+        "name_out": "UTENTI",
+        "name_in": "UTENTI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "UTENTI_RIENTRATI_O_GIA_IN_CARICO",
+        "name_in": "UTENTI_RIENTRATI_O_GIA_IN_CARICO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "DIPARTIMENTO_DI_PREVENZIONE",
+        "name_in": "DIPARTIMENTO_DI_PREVENZIONE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "UNITA_MOBILE_DI_RIANIMAZIONE",
+        "name_in": "UNITA_MOBILE_DI_RIANIMAZIONE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "MEDICI_CON_INDENNITA_PER_ATTIVITA_IN_FORMA_ASSOCIATIVA",
+        "name_in": "MEDICI_CON_INDENNITA_PER_ATTIVITA_IN_FORMA_ASSOCIATIVA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "AMBULANZE_TRASPORTO_EMERGENZA_NEONATO",
+        "name_in": "AMBULANZE_TRASPORTO_EMERGENZA_NEONATO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "DIPARTIMENTO_MATERNOINFANTILE",
+        "name_in": "DIPARTIMENTO_MATERNOINFANTILE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "RESIDENTI_ANZIANI",
+        "name_in": "RESIDENTI_ANZIANI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "SERVIZIO_DI_ASSISTENZA_DOMICILIARE_INTEGRATA",
+        "name_in": "SERVIZIO_DI_ASSISTENZA_DOMICILIARE_INTEGRATA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CENTRO_UNIFICATO_DI_PRENOTAZIONE_TIPO_1",
+        "name_in": "CENTRO_UNIFICATO_DI_PRENOTAZIONE_TIPO_1",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CENTRO_UNIFICATO_DI_PRENOTAZIONE_TIPO_2",
+        "name_in": "CENTRO_UNIFICATO_DI_PRENOTAZIONE_TIPO_2",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "RESIDENTI_IN_ETA_ADULTA",
+        "name_in": "RESIDENTI_IN_ETA_ADULTA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "ASSISTENZA_DOMICILIARE_INTEGRATA_CASI_TRATTATI_PAZIENTI_TERMINALI",
+        "name_in": "ASSISTENZA_DOMICILIARE_INTEGRATA_CASI_TRATTATI_PAZIENTI_TERMINALI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "EURO_IMPORTO_RICETTE_DI_SPECIALITA_MEDICINALI_E_GALENICI",
+        "name_in": "EURO_IMPORTO_RICETTE_DI_SPECIALITA_MEDICINALI_E_GALENICI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_SCELTE_PER_CLASSE_DI_SCELTE",
+        "name_in": "TOTALE_SCELTE_PER_CLASSE_DI_SCELTE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "AMBULATORI_E_LABORATORI_CONVENZIONATI",
+        "name_in": "AMBULATORI_E_LABORATORI_CONVENZIONATI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_RESIDENTI",
+        "name_in": "TOTALE_RESIDENTI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "RESIDENTI_IN_ETA_INFANTILE",
+        "name_in": "RESIDENTI_IN_ETA_INFANTILE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "PEDIATRI_CON_INDENNITA_PER_ATTIVITA_IN_FORMA_ASSOCIATIVA",
+        "name_in": "PEDIATRI_CON_INDENNITA_PER_ATTIVITA_IN_FORMA_ASSOCIATIVA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUMERO_RICETTE_DI_SPECIALITA_MEDICINALI_E_GALENICI",
+        "name_in": "NUMERO_RICETTE_DI_SPECIALITA_MEDICINALI_E_GALENICI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_SCELTE_PER_CLASSE_DI_SCELTE_DEI_PEDIATRI",
+        "name_in": "TOTALE_SCELTE_PER_CLASSE_DI_SCELTE_DEI_PEDIATRI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "AMBULATORI_E_LABORATORI",
+        "name_in": "AMBULATORI_E_LABORATORI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TOTALE_PEDIATRI",
+        "name_in": "TOTALE_PEDIATRI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_APPARECCHIATURE",
+        "name_in": "NUM_APPARECCHIATURE",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_APP_DISPONIBILI",
+        "name_in": "NUM_APP_DISPONIBILI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_05",
+        "name_in": "CL_ETA_05",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_0612",
+        "name_in": "CL_ETA_0612",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_1318",
+        "name_in": "CL_ETA_1318",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_1924",
+        "name_in": "CL_ETA_1924",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_2534",
+        "name_in": "CL_ETA_2534",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_3544",
+        "name_in": "CL_ETA_3544",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_4554",
+        "name_in": "CL_ETA_4554",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_5564",
+        "name_in": "CL_ETA_5564",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_6574",
+        "name_in": "CL_ETA_6574",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "CL_ETA_OVER_75",
+        "name_in": "CL_ETA_OVER_75",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DECESSI",
+        "name_in": "NUM_DECESSI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIMISSIONI_A_DOMICILIO",
+        "name_in": "NUM_DIMISSIONI_A_DOMICILIO",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NUM_DIMISSIONI_VERSO_ALTRA_STRUTTURA",
+        "name_in": "NUM_DIMISSIONI_VERSO_ALTRA_STRUTTURA",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TRAUMA1",
+        "name_in": "TRAUMA1",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TRAUMA2",
+        "name_in": "TRAUMA2",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TRAUMA3",
+        "name_in": "TRAUMA3",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TRAUMA4",
+        "name_in": "TRAUMA4",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TRAUMA5",
+        "name_in": "TRAUMA5",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "TRAUMA9",
+        "name_in": "TRAUMA9",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    },
+    {
+        "name_out": "NDEG_RICOVERI",
+        "name_in": "NDEG_RICOVERI",
+        "is_obs": true,
+        "dtype": "numeric",
+        "conversion": "sum"
+    }
+]

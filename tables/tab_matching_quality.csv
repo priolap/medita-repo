@@ -1,0 +1,11 @@
+Step,Canonical renaming,95% CI,Between files (MS),95% CI
+Pairs,330,,138,
+TP,24,,0,
+FP,2,,0,
+FN,9,,7,
+TN,295,,131,
+Precision,0.923,"{\scriptsize [0.800, 1.000]}",--,
+Recall,0.727,"{\scriptsize [0.571, 0.871]}",0.000,
+F1,0.814,"{\scriptsize [0.694, 0.912]}",0.000,
+AUC,0.955,"{\scriptsize [0.925, 0.979]}",0.933,"{\scriptsize [0.876, 0.977]}"
+AP,0.666,"{\scriptsize [0.520, 0.838]}",0.356,"{\scriptsize [0.234, 0.678]}"

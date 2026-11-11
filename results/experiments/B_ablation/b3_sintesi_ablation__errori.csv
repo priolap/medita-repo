@@ -1,0 +1,5 @@
+fonte,config,var_code,errore,dove
+MINIS,no_dictionary,AASL_STAFFLEX_TIPO,IndexError('list index out of range'),    name = os.path.basename(unique_out_files[jj])[:-4]
+MINIS,no_dictionary_no_fuzzy,AASL_STAFFLEX_TIPO,IndexError('list index out of range'),    name = os.path.basename(unique_out_files[jj])[:-4]
+MINIS,no_dictionary,COST_DISPMEDI_AASL,"AttributeError(""'float' object has no attribute 'upper'"")",    if region.upper() in ['PROVINCIA AUTONOMA BOLZANO / BOZEN']:
+MINIS,no_dictionary_no_fuzzy,COST_DISPMEDI_AASL,"AttributeError(""'float' object has no attribute 'upper'"")",    if region.upper() in ['PROVINCIA AUTONOMA BOLZANO / BOZEN']:

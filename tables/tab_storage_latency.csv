@@ -1,0 +1,9 @@
+Query,Operation,SQLite,SQLite + idx,DuckDB,Parquet,Delta Lake
+Q1,Full read into pandas,21.584,21.556,6.408,6.450,6.453
+Q3,Slice,0.808,0.425,0.123,0.148,0.194
+Q4,Dice,0.659,0.381,0.048,0.063,0.099
+Q5,Roll-up,1.886,4.795,0.025,0.031,0.060
+Q6,Count by year,1.048,0.118,0.007,0.013,0.034
+Q7,Join MINIS \(\times\) ISTAT,1.015,4.711,0.011,0.017,0.032
+Q8,High-cardinality group-by,1.187,1.194,0.005,0.010,0.017
+Q9,Missingness profile,1.333,1.331,0.010,0.014,0.109

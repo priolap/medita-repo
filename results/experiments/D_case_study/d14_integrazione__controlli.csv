@@ -1,0 +1,17 @@
+voce,valore,esito
+schema: file CSV letti per fonte,"{'AIFA': 7, 'ISTAT': 17, 'MINIS': 115}",
+schema: file non letti (fogli di calcolo o assenti),"{'foglio di calcolo (.ods)': 1, 'foglio di calcolo (.xls)': 3, 'foglio di calcolo (.xlsx)': 5}",
+"schema: nomi grezzi distinti, tutte le fonti","{'CODICE_REGIONE': 9, 'REGIONE': 11, 'ANNO': 6}",
+chiavi grezze AIFA,"21 unita', anni 2018-2024, nomi vuoti 0",
+chiavi grezze MINIS,"21 unita', anni 2010-2023, nomi vuoti 0",
+chiavi grezze ISTAT_DECESSI,"21 unita', anni 2011-2023, nomi vuoti 0",
+chiavi grezze ISTAT_AVQ,"21 unita', anni 2001-2025, nomi vuoti 0",
+anni comuni alle quattro fonti grezze,2018-2023,
+AIFA grezzo: mesi,84 (2018-2024),
+AIFA FARM_ACQUISTI_AIFA: max |ITH0 - (ITH1+ITH2)| NUMERO_CONFEZIONI_CONVENZIONATA,0.0,OK
+AIFA FARM_ACQUISTI_AIFA: max |ITH0 - (ITH1+ITH2)| SPESA_CONVENZIONATA,1.4901161193847656e-08,OK
+AIFA FARM_ACQUISTI_AIFA: max |ITH0 - (ITH1+ITH2)| NUMERO_CONFEZIONI_TRACCIA,0.0,OK
+AIFA FARM_ACQUISTI_AIFA: max |ITH0 - (ITH1+ITH2)| SPESA_FLUSSO_TRACCIABILITA,2.9802322387695312e-08,OK
+MINIS DISP_POSLETTO_REGI: max |ITH0 - (ITH1+ITH2)| TOTALE_POSTI_LETTO,0.0,OK
+"popolazione stimata Italia (milioni), ultimo anno",59.07,
+esempio join: chiave ISTAT del Trentino-Alto Adige nel 2019,"[('ITDA', 'Trentino Alto Adige / Südtirol')]",

@@ -1,0 +1,64 @@
+PERCORSO,UNIT,2018,2019,2020,2021,2022,2023
+R0 codici originali,ITC1,False,False,False,False,False,False
+R0 codici originali,ITC2,False,False,False,False,False,False
+R0 codici originali,ITC3,False,False,False,False,False,False
+R0 codici originali,ITC4,False,False,False,False,False,False
+R0 codici originali,ITF1,False,False,False,False,False,False
+R0 codici originali,ITF2,False,False,False,False,False,False
+R0 codici originali,ITF3,False,False,False,False,False,False
+R0 codici originali,ITF4,False,False,False,False,False,False
+R0 codici originali,ITF5,False,False,False,False,False,False
+R0 codici originali,ITF6,False,False,False,False,False,False
+R0 codici originali,ITG1,False,False,False,False,False,False
+R0 codici originali,ITG2,False,False,False,False,False,False
+R0 codici originali,ITH1,False,False,False,False,False,False
+R0 codici originali,ITH2,False,False,False,False,False,False
+R0 codici originali,ITH3,False,False,False,False,False,False
+R0 codici originali,ITH4,False,False,False,False,False,False
+R0 codici originali,ITH5,False,False,False,False,False,False
+R0 codici originali,ITI1,False,False,False,False,False,False
+R0 codici originali,ITI2,False,False,False,False,False,False
+R0 codici originali,ITI3,False,False,False,False,False,False
+R0 codici originali,ITI4,False,False,False,False,False,False
+R1 nomi normalizzati,ITC1,True,True,True,True,True,True
+R1 nomi normalizzati,ITC2,False,False,False,False,False,False
+R1 nomi normalizzati,ITC3,True,True,True,True,True,True
+R1 nomi normalizzati,ITC4,False,False,True,True,True,True
+R1 nomi normalizzati,ITF1,True,True,True,True,True,True
+R1 nomi normalizzati,ITF2,True,True,True,True,True,True
+R1 nomi normalizzati,ITF3,True,True,True,True,True,True
+R1 nomi normalizzati,ITF4,True,True,True,True,True,True
+R1 nomi normalizzati,ITF5,False,False,True,True,True,True
+R1 nomi normalizzati,ITF6,True,True,True,True,True,True
+R1 nomi normalizzati,ITG1,True,True,True,True,True,True
+R1 nomi normalizzati,ITG2,True,True,True,True,True,True
+R1 nomi normalizzati,ITH1,False,False,False,False,False,False
+R1 nomi normalizzati,ITH2,False,False,False,False,False,False
+R1 nomi normalizzati,ITH3,True,True,True,True,True,True
+R1 nomi normalizzati,ITH4,False,False,True,True,True,True
+R1 nomi normalizzati,ITH5,False,False,True,True,True,True
+R1 nomi normalizzati,ITI1,True,True,True,True,True,True
+R1 nomi normalizzati,ITI2,True,True,True,True,True,True
+R1 nomi normalizzati,ITI3,True,True,True,True,True,True
+R1 nomi normalizzati,ITI4,True,True,True,True,True,True
+H MEDITA,ITC1,True,True,True,True,True,True
+H MEDITA,ITC2,True,True,True,True,True,True
+H MEDITA,ITC3,True,True,True,True,True,True
+H MEDITA,ITC4,True,True,True,True,True,True
+H MEDITA,ITF1,True,True,True,True,True,True
+H MEDITA,ITF2,True,True,True,True,True,True
+H MEDITA,ITF3,True,True,True,True,True,True
+H MEDITA,ITF4,True,True,True,True,True,True
+H MEDITA,ITF5,True,True,True,True,True,True
+H MEDITA,ITF6,True,True,True,True,True,True
+H MEDITA,ITG1,True,True,True,True,True,True
+H MEDITA,ITG2,True,True,True,True,True,True
+H MEDITA,ITH1,True,True,True,True,True,True
+H MEDITA,ITH2,True,True,True,True,True,True
+H MEDITA,ITH3,True,True,True,True,True,True
+H MEDITA,ITH4,True,True,True,True,True,True
+H MEDITA,ITH5,True,True,True,True,True,True
+H MEDITA,ITI1,True,True,True,True,True,True
+H MEDITA,ITI2,True,True,True,True,True,True
+H MEDITA,ITI3,True,True,True,True,True,True
+H MEDITA,ITI4,True,True,True,True,True,True

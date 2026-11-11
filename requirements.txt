@@ -1,0 +1,22 @@
+# Python 3.14 (the version used for the paper; 3.12+ should work)
+# Versions pinned where known from the run of 25/10/2026; complete the lock with
+#   python tools/freeze_versions.py   ->  requirements-lock.txt
+pandas==3.0.5
+numpy==2.5.2
+matplotlib
+openpyxl==3.1.5
+xlrd==2.0.2
+odfpy==1.4.1
+dask==2026.8.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.27.5
+chardet==7.6.0
+unidecode==1.4.0
+requests
+beautifulsoup4
+lxml
+tqdm
+sqlalchemy        # metadata catalogue (db_wrapper.py, dashboard/models); version: see requirements-lock.txt
+pyarrow           # needed by dask.dataframe (excel_parser.py) and by the Load (Arrow batches)
+duckdb            # REPO_261111: Load on the lakehouse (scripts/load.py): queries on the Delta tables
+deltalake         # REPO_261111: Load on the lakehouse (scripts/load.py): Delta Lake tables

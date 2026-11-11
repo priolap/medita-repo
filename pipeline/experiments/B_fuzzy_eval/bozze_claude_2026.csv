@@ -1,0 +1,152 @@
+﻿source,step,var_code,item_a,item_b,ratio,decision,LABEL,NOTE
+MINIS,sheets,AASL_STAFFDIP_TIPO,MED E INF_2022,TAB1 2022,43,below_threshold,,da annotare: stesso prospetto di anni diversi o tabella diversa (sottoinsieme medici e infermieri)?
+MINIS,sheets,AASL_STAFFUNI_TIPO,T1B MED E INFERM 2022,T1B 2022,55,below_threshold,,da annotare: stesso prospetto di anni diversi o tabella diversa (sottoinsieme medici e infermieri)?
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,ANNO,10,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,CODICE_REGIONE,39,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,REGIONE,23,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,CODICE_ASL,30,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,DENOMINAZIONE_AZIENDA,38,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,CODICE_DSM,34,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,DSM,15,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,NUMERO_DI_ACCESSI_SEMIRESIDENZIALE_DSM,88,below_threshold,NON_MATCH,utenti contro accessi (regola 7)
+MINIS,files,ACCE_SEMIRESI_EROG,NUMERO_DI_UTENTI_SEMIRESIDENZIALE_DSM,NUMERO_DI_ACCESSI_SEMIRESIDENZIALE_DSM1,87,below_threshold,NON_MATCH,utenti contro accessi (regola 7)
+MINIS,canonical,ANAG_UTENTRAT_DDSM,CLASSE_DETA,CL_ETA_05,60,not_renamed,NON_MATCH,concetti diversi
+MINIS,canonical,ATTI_CONCESSI_ELEN,PROGRAMMA,TRAUMA1,50,not_renamed,NON_MATCH,concetti diversi
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,DESCRIZIONE_REGIONE_DRILL,44,below_threshold,MATCH,bozza: entrambe nome della regione (regola 1); da verificare sugli esempi del file precedente
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,CODICE_DSM,24,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,DSM,0,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,CODICE_SESSO,21,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,SESSO,33,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,GRUPPO_DIAGNOSTICO,32,below_threshold,NON_MATCH,concetti diversi
+MINIS,files,DIAS_UTENTRAT_DDSM,REGIONE,NUMERO_ACCESSI,29,below_threshold,NON_MATCH,concetti diversi
+MINIS,canonical,DSET_DISPOSIT_MEDI,DM_RIFERIMENTO,NDEG_RICOVERI,52,not_renamed,NON_MATCH,concetti diversi
+MINIS,canonical,ELEN_BROKERME_AUTO,NUM_CIVICO,NUM_DECESSI,57,not_renamed,NON_MATCH,concetti diversi
+MINIS,canonical,FARM_VETERINA_AUTO,ATC_VET,CL_ETA_05,50,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,MESE,MESE_ARRIVO,53,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,CLASSE,CL_ETA_05,40,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,ATC1,MASCHI,40,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,DESCRIZIONE_ATC1,DESCRIZIONE_ATC,97,renamed,NON_MATCH,"descrizione del livello ATC1, non descrizione ATC generica: FP del fuzzy (ratio 97), esempio per il paper"
+AIFA,canonical,FARM_ACQUISTI_AIFA,ATC2,MASCHI,40,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,DESCRIZIONE_ATC2,DESCRIZIONE_ATC,97,not_renamed_target_already_in_table,NON_MATCH,livello ATC diverso (regola 5); rinomina bloccata perche' il nome canonico era gia' nella tabella
+AIFA,canonical,FARM_ACQUISTI_AIFA,ATC3,MASCHI,40,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,DESCRIZIONE_ATC3,DESCRIZIONE_ATC,97,not_renamed_target_already_in_table,NON_MATCH,livello ATC diverso (regola 5); rinomina bloccata perche' il nome canonico era gia' nella tabella
+AIFA,canonical,FARM_ACQUISTI_AIFA,ATC4,MASCHI,40,not_renamed,NON_MATCH,concetti diversi
+AIFA,canonical,FARM_ACQUISTI_AIFA,DESCRIZIONE_ATC4,DESCRIZIONE_ATC,97,not_renamed_target_already_in_table,NON_MATCH,livello ATC diverso (regola 5); rinomina bloccata perche' il nome canonico era gia' nella tabella
+ISTAT,canonical,DCAR_ENTPREVDIP_PA,SOCIAL_SECUR_FUNDS,PERSONALE_D,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVDIP_PA,TYPE_OF_CONTRACT,NUMERO_CONFEZIONI_TRACCIA,49,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVDIP_PA,SOCIAL_SECUR_FUNDS_DESC,TOTALE_SCELTE_PER_CLASSE_DI_SCELTE,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVDIP_PA,TYPE_OF_CONTRACT_DESC,TEMPO_DETERMINATO_D,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVDIP_PA,NUM_ID,NUM_DECESSI,59,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVENT_PA,REVENUE_PHASE,NUMERO_ACCESSI,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVENT_PA,REVENUE_TYPE,PERSONALE_DIPENDENTE,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVENT_PA,REVENUE_PHASE_DESC,REPE_D,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVENT_PA,REVENUE_TYPE_DESC,NUMERO_UTENTI_DIMESSI,53,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVSPE_PA,EXPENDIT_PHASE,TEMPO_INDETERMINATO_PARZIALE_D,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVSPE_PA,EXPENDITURE_TYPE,NUM_DIP_TEMPO_PIENO,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVSPE_PA,EXPENDIT_PHASE_DESC,TEMPO_INDETERMINATO_PARZIALE_D,49,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCAR_ENTPREVSPE_PA,EXPENDITURE_TYPE_DESC,NUM_DIP_TEMPO_PIENO_D,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,DATA_TYPE,DATA_DECISIONE,52,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,MEASURE,COMUNE,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,NUMBER_HOUSEHOLD_COMP,NUMERO_CONFEZIONI_TRACCIA,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,NOTE_DATA_TYPE,TOTALE_PEDIATRI,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,DATA_TYPE_DESC,DATA_DECISIONE,57,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,MEASURE_DESC,DESCRIZIONE_MERCE,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_FAMIGLIE,NUMBER_HOUSEHOLD_COMP_DESC,NUMERO_UTENTI_AMMESSI,51,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,SEX,OBS_VALUE,33,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,AGE,TOTALE,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,EDU_LEV_HIGHEST,CODICE_ID_SITO,41,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,LABOUR_PROFESS_STATUS_B,FARMACI_UMANI_GROSSISTA,43,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,SEX_DESC,LSU_D,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,AGE_DESC,RAGIONE_SOCIALE,52,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,EDU_LEV_HIGHEST_DESC,NUMERO_UTENTI_DIMESSI,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_AVQ_PERSONE,LABOUR_PROFESS_STATUS_B_DESC,NUMERO_DI_PRESTAZIONI_EROGATE_DSM,43,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,PERPETRATOR,NUM_REPERTORIO,56,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,TYPE_VIOLENCE,REGIONE,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,CITIZENSHIP_WOMAN,CODICE_COMUNE,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,AGE_WOMAN,RAGIONE_SOCIALE,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,MARITAL_STATUS_WOMAN,PARTITA_IVA,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,EDU_LEV_WOMAN,CODICE_COMUNE,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,LABPROF_STATUS_D_WOMAN,TELELAVOROSMART_WORKING_D,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,MAIN_SOURCE_INCOME,RAGIONE_SOCIALE,55,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,ACTIVITY_LIMITATION_6M,CERTIFICAZIONE_MERCI,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,LEISURE_ACTIVITIES,MESE_ARRIVO,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,FREQUENCY_ACTIVITY,PRINCIPIO_ATTIVO,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,SOCIAL_SUPPORT,FASCIA_PTN,58,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,PERPETRATOR_DESC,TEMPO_DETERMINATO_D,57,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,TYPE_VIOLENCE_DESC,TEMPO_PIENO_D,52,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,CITIZENSHIP_WOMAN_DESC,CERTIFICAZIONE_MERCI,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,AGE_WOMAN_DESC,FARMACI_UMANI_DEPOSITO,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,MARITAL_STATUS_WOMAN_DESC,FARMACI_UMANI_DEPOSITO,51,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,EDU_LEV_WOMAN_DESC,TELELAVOROSMART_WORKING_D,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,LABPROF_STATUS_D_WOMAN_DESC,TELELAVOROSMART_WORKING_D,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,MAIN_SOURCE_INCOME_DESC,FORMAZIONE_LAVORO_D,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,ACTIVITY_LIMITATION_6M_DESC,CERTIFICAZIONE_MERCI,51,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,LEISURE_ACTIVITIES_DESC,CERTIFICAZIONE_MERCI,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,FREQUENCY_ACTIVITY_DESC,NUMERO_UTENTI_DIMESSI,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCCV_VIOL_CARAT,SOCIAL_SUPPORT_DESC,ALTRO_RAPPORTO_D,57,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_CMORTEM,UNDERLY_DEATH_SL_MC,NDEG_REPARTI,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_CMORTEM,DEATH_MC,CODICE_MERCE,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_CMORTEM,NUMBER_OF_PATHOLOGIES,NUMERO_ACCESSI,57,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_CMORTEM,UNDERLY_DEATH_SL_MC_DESC,NUMERO_UTENTI_AMMESSI,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_CMORTEM,DEATH_MC_DESC,DATA_DECISIONE,52,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_CMORTEM,NUMBER_OF_PATHOLOGIES_DESC,NUMERO_ACCESSI,55,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_DECESSI,MARITAL_STATUS,PARTITA_IVA,56,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_DECESSI,CITIZENSHIP,UTENTI,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_DECESSI,COUNTRY_BIRTH,QUANTITA,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_DECESSI,MARITAL_STATUS_DESC,PARTITA_IVA,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_DECESSI,CITIZENSHIP_DESC,FARMACI_VETERINARI_DEPOSITO,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_DECESSI,COUNTRY_BIRTH_DESC,NUMERO_UTENTI_DIMESSI,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,PLACE_REGISTR_EVENT,NUMERO_REGISTRAZIONE,51,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,PLACE_BIRTH,TIPOLOGIA_SITO,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,LABPROF_STATUS_A,PRIMO_DESTINATARIO_MATERIALE,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,WOMAN_REPRODUCTIVE_HIST,FARMACI_UMANI_PRODUZIONE,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,NUMBER_OF_CASES,NUMERO_ACCESSI,69,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,MINORS_APPROVAL,OBS_VALUE,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,PLACE_REGISTR_EVENT_DESC,NUMERO_REGISTRAZIONE,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,PLACE_BIRTH_DESC,PAESE_DI_ORIGINE,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,LABPROF_STATUS_A_DESC,PRIMO_DESTINATARIO_MATERIALE,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,WOMAN_REPRODUCTIVE_HIST_DESC,NUMERO_UTENTI_DIMESSI,49,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,NUMBER_OF_CASES_DESC,NUMERO_ACCESSI,65,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTDON,MINORS_APPROVAL_DESC,ALTRO_RAPPORTO_D,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,TYPE_INTERVENTION,SPESA_CONVENZIONATA,56,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,ANALGESIC_THERAPY,INDICAZIONE_TERAPEUTICA,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,WEEKS_OF_AMENORRHEA,DESCRIZIONE_MERCE,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,GESTATIONAL_AGE,DESTINAZIONE,59,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,Y_FETAL_MALFORMATIONS,ALTRO_RAPPORTO,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,CERTIFICATION,CERTIFICAZIONE_MERCI,73,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,WAIT_DAYS_CERTIF_ABORT,DATA_ULTIMO_AGGIORNAMENTO,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,Y_URGENCY,POSTI_LETTO_DAY_SURGERY,44,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,PLACE_VOL_ABOR,AMBULATORI_E_LABORATORI,49,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,COMPLICATION,CODICE_REGIONE,54,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,TYPE_INTERVENTION_DESC,TEMPO_INDETERMINATO_PIENO_D,57,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,ANALGESIC_THERAPY_DESC,FARMACI_VETERINARI_DEPOSITO,49,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,WEEKS_OF_AMENORRHEA_DESC,PERS_ANNO_RIF_D,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,GESTATIONAL_AGE_DESC,PERSONALE_D,58,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,Y_FETAL_MALFORMATIONS_DESC,ALTRO_RAPPORTO_D,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,CERTIFICATION_DESC,CERTIFICAZIONE_MERCI,79,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,WAIT_DAYS_CERTIF_ABORT_DESC,ALTRO_RAPPORTO_D,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,Y_URGENCY_DESC,TURN_D,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,PLACE_VOL_ABOR_DESC,FORMAZIONE_LAVORO_D,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_CARATTEV1,COMPLICATION_DESC,CERTIFICAZIONE_MERCI,54,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_MIGRAZIONE,MIGRATION,IMPORTO,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_IVG_MIGRAZIONE,MIGRATION_DESC,RAGIONE_SOCIALE,55,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_RSERVSAN,VISIT_OF_DIAGNOSTIC,CODICE_ID_SITO_LOGISTICO,51,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_RSERVSAN,PERIOD_DOCTOR_DIAGN,PRODOTTI,52,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_RSERVSAN,VISIT_OF_DIAGNOSTIC_DESC,CODICE_ID_SITO_LOGISTICO,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_RSERVSAN,PERIOD_DOCTOR_DIAGN_DESC,PAESE_DI_ORIGINE,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLEDIS,SCHOOL_LEVEL,CL_ETA_OVER_75,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLEDIS,PRESENCE,PERSONALE_D,53,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLEDIS,PROF_FIGURE_INTEGR,PERSONALE_DIPENDENTE,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLEDIS,SCHOOL_LEVEL_DESC,CL_ETA_OVER_75,45,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLEDIS,PRESENCE_DESC,PERSONALE_D,58,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLEDIS,PROF_FIGURE_INTEGR_DESC,NUMERO_UTENTI_DIMESSI,50,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLESORDI,COMMUNIC_DEAF_PEOPLE,CODICE_REGIONE,53,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SCUOLESORDI,COMMUNIC_DEAF_PEOPLE_DESC,TOTALE_PERSONALE_D,47,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,METHOD_SUICIDE,MEDICI_D,64,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,PHY_DISEASE,CODICE_ASL,48,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,MENTALBEHA_DISEASE,PERSONALE_DIPENDENTE,53,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,MONTH_DEATH,GIORNATE_DEGENZA,52,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,METHOD_SUICIDE_DESC,MEDICI_D,59,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,PHY_DISEASE_DESC,CODICE_DSM,46,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,MENTALBEHA_DISEASE_DESC,PERSONALE_DIPENDENTE_D,53,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto
+ISTAT,canonical,DCIS_SUICIDI,MONTH_DEATH_DESC,TEMPO_DETERMINATO_D,51,not_renamed,NON_MATCH,dimensione ISTAT (ID 2026) contro nome canonico di altro concetto

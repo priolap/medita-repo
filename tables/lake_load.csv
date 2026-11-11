@@ -1,0 +1,8 @@
+Measure,Value
+First complete Load (s),215.8
+  raw zone: catalogue and SHA-256 of the raw files (s),34.8
+  harmonized zone (s),131.9
+  curated zone (s),49.1
+"Lakehouse, one version per table (GB)",1.24
+Relational database of the previous release (GB),9.06
+Relational / lakehouse,7.3

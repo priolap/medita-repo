@@ -1,0 +1,9 @@
+metodo,step,contesto,colonne_sorgente,colonne_destinazione,coppie_restituite,secondi
+coma,canonical,tutte le colonne valutate x vocabolario canonico,330.0,240.0,21603,9.6
+coma,files,per VAR_CODE: colonne nuove x colonne del file precedente,,,65,0.2
+cupid,canonical,tutte le colonne valutate x vocabolario canonico,330.0,240.0,79200,445.8
+cupid,files,per VAR_CODE: colonne nuove x colonne del file precedente,,,177,0.3
+cupid_ita,canonical,tutte le colonne valutate x vocabolario canonico,330.0,240.0,79200,552.1
+cupid_ita,files,per VAR_CODE: colonne nuove x colonne del file precedente,,,177,0.0
+sflooding,canonical,tutte le colonne valutate x vocabolario canonico,330.0,240.0,79200,291.1
+sflooding,files,per VAR_CODE: colonne nuove x colonne del file precedente,,,177,0.2

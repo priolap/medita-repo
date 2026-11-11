@@ -1,0 +1,5 @@
+voce,valore
+eseguito,2026-10-29 15:16
+fonti,"MINIS,AIFA"
+tolleranza,1e-09
+nota,scarto relativo |ITH0 - (ITH1+ITH2)| / (ITH1+ITH2) sulle misure 'sum'; dup_ITH0 sulle colonne descrittive (escluse quelle territoriali)

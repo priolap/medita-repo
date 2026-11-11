@@ -1,0 +1,14 @@
+{
+  "id": "espritz/hank-c3-generate",
+  "title": "hank-c3-generate",
+  "code_file": "run_c3_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["espritz/hank-c-inputs"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

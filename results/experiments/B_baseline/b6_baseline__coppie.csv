@@ -1,0 +1,9 @@
+step,LABEL,righe
+canonical,INCERTO,7
+canonical,MATCH,96
+canonical,NON_MATCH,1039
+files,INCERTO,1
+files,MATCH,7
+files,NON_MATCH,147
+sheets,MATCH,45
+sheets,NON_MATCH,25

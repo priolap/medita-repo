@@ -1,0 +1,5 @@
+pandas
+openpyxl
+openai
+scikit-learn
+kaggle

@@ -1,0 +1,14 @@
+{
+  "id": "espritz/hank-c4-metrics",
+  "title": "hank-c4-metrics",
+  "code_file": "run_c4_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["espritz/hank-c-inputs"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

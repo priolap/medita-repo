@@ -1,0 +1,7 @@
+Pair of sources,R0 original codes,R1 normalized names,H MEDITA
+AIFA -- MINIS,100.0,82.5,100.0
+AIFA -- ISTAT deaths,0.0,79.4,100.0
+AIFA -- ISTAT daily-life survey,0.0,80.3,100.0
+MINIS -- ISTAT deaths,0.0,85.7,100.0
+MINIS -- ISTAT daily-life survey,0.0,85.7,100.0
+ISTAT deaths -- ISTAT daily-life survey,100.0,100.0,100.0

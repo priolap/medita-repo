@@ -1,0 +1,9 @@
+Metric,P (Gemma-2),R (Gemma-2),F1 (Gemma-2),P (Llama-3),R (Llama-3),F1 (Llama-3)
+ROUGE-1,0.759,0.741,0.732,0.323,0.666,0.383
+ROUGE-2,0.688,0.669,0.668,0.235,0.560,0.293
+ROUGE-L,0.732,0.714,0.707,0.287,0.621,0.347
+BERTScore,0.889,0.887,0.887,0.718,0.819,0.762
+BLEU-4,\multicolumn{3}{c}{0.629},,,\multicolumn{3}{c}{0.185},,
+METEOR,\multicolumn{3}{c}{0.713},,,\multicolumn{3}{c}{0.489},,
+EM,\multicolumn{3}{c}{0.517},,,\multicolumn{3}{c}{0.010},,
+Hallucinated answers,\multicolumn{3}{c}{24 (8.0\%)},,,\multicolumn{3}{c}{90 (30.0\%)},,
